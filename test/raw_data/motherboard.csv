@@ -1,0 +1,11 @@
+Name,Socket,Chipset,MaxRAMSpeed,MemoryType,SupportedStorageInterfaces,SupportedFormFactors,Formfactor
+Gigabyte GA-A320M-S2H,AM4,AMD A320,,,,,Micro-ATX
+Asus Z170 Pro Gaming,LGA 1151,Intel Z170,,,,,ATX
+Asus Prime A320M-K,AM4,AMD A320,,,,,Micro-ATX
+Asus Z170-A,LGA 1151,Intel Z170,,,,,ATX
+Asrock B450M Steel Legend,AM4,AMD B450,,,,,Micro-ATX
+Asus EX-A320M-Gaming,AM4,AMD A320,,,,,Micro-ATX
+Asrock A320M-HDV,AM4,AMD A320,,,,,Micro-ATX
+Asus ROG Maximus VII Hero,LGA 1150,Intel Z97,,,,,ATX
+Asus Z170-P,LGA 1151,Intel Z170,,,,,ATX
+Asus Prime Z370-P,LGA 1151,Intel Z370,,,,,ATX

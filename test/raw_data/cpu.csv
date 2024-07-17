@@ -1,0 +1,4 @@
+﻿cpuName,socket,SupportedChipsets,MaxRAMSpeed,MemoryType,cpuMark,cpuValue,threadMark,threadValue,TDP,powerPerf,cores
+AMD Ryzen Threadripper PRO 5995WX,sWRX8,,,,108822,,3330,,280,388.65,64
+AMD EPYC 7763,SP3,,,,88338,12.1,2635,0.36,280,315.49,64
+AMD EPYC 7J13,unknown,,,,86006,,2387,,,,64

@@ -1,0 +1,21 @@
+Model,Interface,FormFactor,Capacities,Controller,Configuration,DRAM,HMB,NAND Brand,NANDType,Layers,"R/W",Categories
+Acer SA100,SATA/AHCI,"2.5""",120GB-1.92TB,Maxio MAS0902A,"Dual-core, 4-Ch, 8-CE/ch",No,N/A,,TLC,,560/500,Entry-Level SATA
+ADATA ATOM 30,x4 PCIe 3.0/NVMe,M.2,250GB-1TB,Realtek RTS5766DL,4-Ch,No,Yes,,,,2500/2000,Entry-Level NVMe
+ADATA ATOM 40,x4 PCIe 4.0/NVMe,M.2,512GB-1TB,,,,,,,,3500/3000,Mid-Range NVMe
+ADATA ATOM 50,x4 PCIe 4.0/NVMe,M.2,512GB-1TB,InnoGrit IG5220,"Tri-core R5, 4x8",No,Yes,Micron,TLC,176,5000/4500,Mid-Range NVMe
+ADATA Falcon,x4 PCIe 3.0/NVMe,M.2,256GB-2TB,Realtek RTS5762DL,"Dual-core, 8-ch, 4-CE/ch",No,Yes,Micron,TLC,96,3100/1500,Entry-Level NVMe
+ADATA Legend 800,x4 PCIe 4.0/NVMe,M.2,,SMI SM2267XT,"Dual R5, 4x4",,,,,,3500/2800,Entry-Level NVMe
+ADATA Legend 820,x4 PCIe 4.0/NVMe,M.2,1TB-2TB,,,,,,,,5000/4500,
+ADATA Legend 840,x4 PCIe 4.0/NVMe,M.2,512GB-1TB,InnoGrit IG5220,"Tri-core R5, 4x8",No,Yes,Micron,TLC,176,5000/4500,Mid-Range NVMe
+ADATA Project Blackbird,x4 PCIe 5.0/NVMe,M.2,,InnoGrit IG5666,,,,,,,,
+ADATA Project NeonStorm,x4 PCIe 5.0/NVMe,M.2,1TB-8TB,SMI SM2508,,Yes,No,Micron,TLC,232,14000/12000,High-End NVMe
+ADATA Project Nighthawk,x4 PCIe 5.0/NVMe,M.2,,SMI SM2508,,,,,,,14000/?,
+ADATA S20G,x4 PCIe 3.0/NVMe,M.2,500GB-1TB,Realtek RTS5763DL,"Dual-core, 4-ch, 8-CE/ch",No,Yes,,TLC,,2500/1800,Entry-Level NVMe
+ADATA SD810,USB 3.2 Gen 2x2,USB-C,500GB-4TB,,,,,,,,2000/2000,
+ADATA SE760,USB 3.2 Gen 2x1,USB-C,256GB-1TB,Realtek RTS5763DL,"Dual-core, 4-ch, 8-CE/ch",No,Yes,Micron,TLC,64,1000/1000,Entry-Level NVMe
+ADATA SE800,USB 3.2 Gen 2x1,USB-C,512GB-1TB,InnoGrit IG5208,"Single R5, 4x4",No,Yes,Micron,TLC,64,1000/1000,Entry-Level NVMe
+ADATA SE880,USB 3.2 Gen 2x2,USB-C,500GB-1TB,,,,,,,,2000/2000,Entry-Level NVMe
+ADATA SE900G,USB 3.2 Gen 2x2,USB-C,512GB-2TB,SMI SM2262,"Dual-core, 8-ch, 4-CE/ch",Yes,No,Micron,TLC,96,2000/2000,Mid-Range NVMe
+ADATA SE920,USB 4,USB-C,1TB-2TB,,,,,,,,3800/3700,
+ADATA SU630/SU635,SATA/AHCI,"2.5""",240GB-960GB,Maxio MAS0902A,"Dual-core, 4-Ch, 8-CE/ch",No,N/A,Micron,QLC,64,520/450,Entry-Level SATA
+ADATA SU650/SU655,SATA/AHCI,"2.5""",60GB-960GB,SMI SM2258XT,"Single-core, 4-ch, 4-CE/ch",No,N/A,Micron,TLC,32/64,520/450,Entry-Level SATA
