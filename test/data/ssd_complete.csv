@@ -1,0 +1,11 @@
+Model,Interface,FormFactor,Capacities,Controller,Configuration,DRAM,HMB,NAND Brand,NANDType,Layers,R/W,Categories
+Acer SA100,SATA/AHCI,"2.5""",120GB-1.92TB,Maxio MAS0902A,"Dual-core, 4-Ch, 8-CE/ch",No,N/A,,TLC,MLC (Multi-Level Cell),560/500,Entry-Level SATA
+ADATA ATOM 30,x4 PCIe 3.0/NVMe,M.2,250GB-1TB,Realtek RTS5766DL,4-Ch,No,Yes,Micron,TLC (Tri-Level Cell),3D,2500/2000,Entry-Level NVMe
+ADATA ATOM 40,x4 PCIe 4.0/NVMe,M.2,512GB-1TB,ASHES (Adatas proprietary controller),,"1GB (depending on the capacity, some models might have more or less DRAM)",None (as it's a mid-range NVMe SSD and not an enterprise-grade SSD with Hybrid Media Bay),,"TLC (Tri-Level Cell) or QLC (Quad-Level Cell), depending on the specific model",3D TLC (or QLC),3500/3000,Mid-Range NVMe
+ADATA ATOM 50,x4 PCIe 4.0/NVMe,M.2,512GB-1TB,InnoGrit IG5220,"Tri-core R5, 4x8",No,Yes,Micron,TLC,176,5000/4500,Mid-Range NVMe
+ADATA Falcon,x4 PCIe 3.0/NVMe,M.2,256GB-2TB,Realtek RTS5762DL,"Dual-core, 8-ch, 4-CE/ch",No,Yes,Micron,TLC,96,3100/1500,Entry-Level NVMe
+ADATA Legend 800,x4 PCIe 4.0/NVMe,M.2,1TB/2TB/4TB,SMI SM2267XT,"Dual R5, 4x4",2GB/4GB/8GB,None,Kioxia (formerly Toshiba),BiCS4 3D NAND,96 layers,3500/2800,Entry-Level NVMe
+ADATA Legend 820,x4 PCIe 4.0/NVMe,M.2,1TB-2TB,,Dual-core M.2 NVMe controller,"None (since it's an SSD, no DRAM is needed)",Not applicable (since it's not a Hybrid Memory Bus solution),,Tri-Level TLC (or similar low-cost NAND technology),3D TLC NAND with 2-plane architecture,5000/4500,"Consumer-grade NVMe SSD, Budget-friendly options"
+ADATA Legend 840,x4 PCIe 4.0/NVMe,M.2,512GB-1TB,InnoGrit IG5220,"Tri-core R5, 4x8",No,Yes,Micron,TLC,176,5000/4500,Mid-Range NVMe
+ADATA Project Blackbird,x4 PCIe 5.0/NVMe,M.2,Up to 16TB (depending on the specific model),InnoGrit IG5666,,1GB DDR5,12GB LPDDR4x-2400,Micron,Tri-Level MLC,3D TLC,"Up to 7000 MB/s read, 5500 MB/s write",
+ADATA Project NeonStorm,x4 PCIe 5.0/NVMe,M.2,1TB-8TB,SMI SM2508,,Yes,No,Micron,TLC,232,14000/12000,High-End NVMe

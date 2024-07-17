@@ -1,0 +1,6 @@
+Name,Socket,Chipset,MaxRAMSpeed,MemoryType,SupportedStorageInterfaces,SupportedFormFactors,Formfactor
+Gigabyte GA-A320M-S2H,AM4,AMD A320,DDR4 3200MHz (or up to 3842MHz OC),DDR4,"SATA, PCIe 3.0 x2, M.2, USB-C with DisplayPort and Power Delivery","mSATA, M.2, microSD, CFexpress",Micro-ATX
+Asus Z170 Pro Gaming,LGA 1151,Intel Z170,DDR4-3200,DDR4,"SATA III, PCIe NVMe, M.2","mSATA, M.2",ATX
+Asus Prime A320M-K,AM4,AMD A320,DDR4 3200 MHz,DDR4,"SATA III, PCIe x2 NVMe, M.2 NVMe","U.2, M.2",Micro-ATX
+Asus Z170-A,LGA 1151,Intel Z170,DDR4 3200,DDR4,"SATA III, M.2 NVMe, PCIe x4","mSATA, SATA III, M.2",ATX
+Asrock B450M Steel Legend,AM4,AMD B450,3200MHz,DDR4,"SATA III, M.2 (SATA and PCIe), USB3.1 Gen 1","mSATA, M.2, UEFI",Micro-ATX
