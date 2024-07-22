@@ -1,4 +1,4 @@
-Brand Model,Interface,Form Factor,Capacities,Controller,Configuration,DRAM,HMB,NAND Brand,NAND Type,Layers,"R/W (Up to, in MB/s)",Categories
+Model,Interface,FormFactor,Capacities,Controller,Configuration,DRAM,HMB,NAND Brand,NANDType,Layers,"R/W",Categories
 Acer SA100,SATA/AHCI,"2.5""",120GB-1.92TB,Maxio MAS0902A,"Dual-core, 4-Ch, 8-CE/ch",No,N/A,,TLC,,560/500,Entry-Level SATA
 Acer FA100,x4 PCIe 3.0/NVMe,M.2,128GB-2TB,Innogrit IG5216,"Dual-core, 4x4",No,Yes,Micron,TLC,176,3300/2700,Entry-Level NVMe
 Acer FA200,x4 PCIe 4.0/NVMe,M.2,500GB-4TB,Maxio MAP1602,"R5, 4x8",No,Yes,YMTC,QLC,232,7200/6200,
