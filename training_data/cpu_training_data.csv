@@ -1,0 +1,4759 @@
+Prompt,Response
+I need a CPU of AMD - high power range,"**CPU Name:** AMD Ryzen Threadripper PRO 5995WX
+
+**Company:** AMD
+
+**Socket:** sWRX8
+
+**Supported Chipsets:** Xeon EEB
+
+**Max RAM Speed:** DDR4-3200, DDR5-4800
+
+**Memory Type:** DDR4/DDR5
+
+**CPU Mark:** 108822
+
+**CPU Value:** N/A
+
+**Thread Mark:** 3330
+
+**Thread Value:** N/A
+
+**TDP:** 280
+
+**Power Performance:** 388.65
+
+**Cores:** 64
+"
+I need a CPU of AMD - high power range,"**CPU Name:** AMD EPYC 7763
+
+**Company:** AMD
+
+**Socket:** SP3
+
+**Supported Chipsets:** Xeon E5/E7 v4 (C621) and SP3-based EPYC chipsets
+
+**Max RAM Speed:** 3200 MHz
+
+**Memory Type:** DDR4-3200
+
+**CPU Mark:** 88338
+
+**CPU Value:** N/A
+
+**Thread Mark:** 2635
+
+**Thread Value:** N/A
+
+**TDP:** 280
+
+**Power Performance:** 315.49
+
+**Cores:** 64
+"
+I need a CPU of AMD - high power range,"**CPU Name:** AMD EPYC 7J13
+
+**Company:** AMD
+
+**Socket:** unknown
+
+**Supported Chipsets:** x86-64
+
+**Max RAM Speed:** 3200 MHz
+
+**Memory Type:** DDR4-3200 or LPDDR4-2933
+
+**CPU Mark:** 86006
+
+**CPU Value:** N/A
+
+**Thread Mark:** 2387
+
+**Thread Value:** N/A
+
+**TDP:** 225W
+
+**Power Performance:** 
+
+**Cores:** 64
+"
+I need a CPU of AMD - high power range,"**CPU Name:** AMD EPYC 7713
+
+**Company:** AMD
+
+**Socket:** SP3
+
+**Supported Chipsets:** Xeon/Wellhaven (for AMD EPYC)
+
+**Max RAM Speed:** DDR4-3200
+
+**Memory Type:** DDR4
+
+**CPU Mark:** 85861
+
+**CPU Value:** N/A
+
+**Thread Mark:** 2727
+
+**Thread Value:** N/A
+
+**TDP:** 225
+
+**Power Performance:** 381.6
+
+**Cores:** 64
+"
+I need a CPU of AMD - high power range,"**CPU Name:** AMD Ryzen Threadripper PRO 3995WX
+
+**Company:** AMD
+
+**Socket:** sWRX8
+
+**Supported Chipsets:** Xeon/W5580
+
+**Max RAM Speed:** DDR4-3200
+
+**Memory Type:** DDR4
+
+**CPU Mark:** 83971
+
+**CPU Value:** N/A
+
+**Thread Mark:** 2626
+
+**Thread Value:** N/A
+
+**TDP:** 280
+
+**Power Performance:** 299.9
+
+**Cores:** 64
+"
+I need a CPU of AMD - high power range,"**CPU Name:** AMD Ryzen Threadripper 3990X
+
+**Company:** AMD
+
+**Socket:** sTRX4
+
+**Supported Chipsets:** ASRock X570 Taichi, ASUS PRIME X570-UD, GIGABYTE X570 AORUS MASTER, MSI MEG X570 GODLIKE
+
+**Max RAM Speed:** DDR4-3200
+
+**Memory Type:** DDR4
+
+**CPU Mark:** 81568
+
+**CPU Value:** N/A
+
+**Thread Mark:** 2569
+
+**Thread Value:** N/A
+
+**TDP:** 280
+
+**Power Performance:** 291.31
+
+**Cores:** 64
+"
+I need a CPU of AMD - high power range,"**CPU Name:** AMD Ryzen Threadripper PRO 5975WX
+
+**Company:** AMD
+
+**Socket:** sWRX8
+
+**Supported Chipsets:** Xeon E3, Xeon W-3175X
+
+**Max RAM Speed:** DDR4-3200, DDR5-4800
+
+**Memory Type:** DDR4, DDR5
+
+**CPU Mark:** 80842
+
+**CPU Value:** N/A
+
+**Thread Mark:** 3340
+
+**Thread Value:** N/A
+
+**TDP:** 280
+
+**Power Performance:** 288.72
+
+**Cores:** 32
+"
+I need a CPU of AMD - mid power range,"**CPU Name:** AMD EPYC 7B13
+
+**Company:** AMD
+
+**Socket:** unknown
+
+**Supported Chipsets:** SP5100
+
+**Max RAM Speed:** 3200 MHz
+
+**Memory Type:** DDR4-3200
+
+**CPU Mark:** 77460
+
+**CPU Value:** N/A
+
+**Thread Mark:** 2564
+
+**Thread Value:** N/A
+
+**TDP:** 225W
+
+**Power Performance:** 3.42
+
+**Cores:** 60
+"
+I need a CPU of AMD - mid power range,"**CPU Name:** AMD EPYC 7643
+
+**Company:** AMD
+
+**Socket:** SP3
+
+**Supported Chipsets:** Xeon D/P
+
+**Max RAM Speed:** DDR4-3200/DDR5-5200
+
+**Memory Type:** 
+
+**CPU Mark:** 76455
+
+**CPU Value:** N/A
+
+**Thread Mark:** 2695
+
+**Thread Value:** N/A
+
+**TDP:** 225
+
+**Power Performance:** 339.8
+
+**Cores:** 48
+"
+I need a CPU of AMD - mid power range,"**CPU Name:** AMD EPYC 7702
+
+**Company:** AMD
+
+**Socket:** SP3
+
+**Supported Chipsets:** Rome
+
+**Max RAM Speed:** 3200 MT/s
+
+**Memory Type:** DDR4
+
+**CPU Mark:** 71646
+
+**CPU Value:** N/A
+
+**Thread Mark:** 2097
+
+**Thread Value:** N/A
+
+**TDP:** 200
+
+**Power Performance:** 358.23
+
+**Cores:** 64
+"
+I need a CPU of AMD - mid power range,"**CPU Name:** AMD EPYC 7662
+
+**Company:** AMD
+
+**Socket:** SP3
+
+**Supported Chipsets:** Xeon/Wellsburg/EPYCDome
+
+**Max RAM Speed:** 3200 MHz
+
+**Memory Type:** DDR4/DDR5 (depending on the CPU model)
+
+**CPU Mark:** 71576
+
+**CPU Value:** N/A
+
+**Thread Mark:** 2054
+
+**Thread Value:** N/A
+
+**TDP:** 225
+
+**Power Performance:** 318.12
+
+**Cores:** 64
+"
+I need a CPU of AMD - mid power range,"**CPU Name:** AMD EPYC 7742
+
+**Company:** AMD
+
+**Socket:** SP3
+
+**Supported Chipsets:** PCIe 4.0 x16 (single), PCIe 4.0 x8/x8 or x16/x8/x8 (dual)
+
+**Max RAM Speed:** DDR4-3200, DDR5-4800
+
+**Memory Type:** DDR4, DDR5
+
+**CPU Mark:** 68749
+
+**CPU Value:** N/A
+
+**Thread Mark:** 2145
+
+**Thread Value:** N/A
+
+**TDP:** 225
+
+**Power Performance:** 305.55
+
+**Cores:** 64
+"
+I need a CPU of AMD - mid power range,"**CPU Name:** AMD EPYC 75F3
+
+**Company:** AMD
+
+**Socket:** SP3
+
+**Supported Chipsets:** x397
+
+**Max RAM Speed:** 3200
+
+**Memory Type:** DDR4
+
+**CPU Mark:** 68505
+
+**CPU Value:** N/A
+
+**Thread Mark:** 2775
+
+**Thread Value:** N/A
+
+**TDP:** 280
+
+**Power Performance:** 244.66
+
+**Cores:** 32
+"
+I need a CPU of AMD - mid power range,"**CPU Name:** AMD Ryzen Threadripper PRO 5965WX
+
+**Company:** AMD
+
+**Socket:** sWRX8
+
+**Supported Chipsets:** ASRock X570, ASUS PRIME X570, MSI MEG X570 GODLIKE
+
+**Max RAM Speed:** 3200MHz
+
+**Memory Type:** DDR4
+
+**CPU Mark:** 68405
+
+**CPU Value:** N/A
+
+**Thread Mark:** 3346
+
+**Thread Value:** N/A
+
+**TDP:** 280
+
+**Power Performance:** 244.3
+
+**Cores:** 24
+"
+I need a CPU of AMD - mid power range,"**CPU Name:** AMD EPYC 7642
+
+**Company:** AMD
+
+**Socket:** SP3
+
+**Supported Chipsets:** Xeon D, SP3
+
+**Max RAM Speed:** DDR4-3200
+
+**Memory Type:** DDR4
+
+**CPU Mark:** 67748
+
+**CPU Value:** N/A
+
+**Thread Mark:** 2155
+
+**Thread Value:** N/A
+
+**TDP:** 225
+
+**Power Performance:** 301.1
+
+**Cores:** 48
+"
+I need a CPU of AMD - mid power range,"**CPU Name:** AMD EPYC 7543P
+
+**Company:** AMD
+
+**Socket:** SP3
+
+**Supported Chipsets:** Xeon E5/E7 Series Processors, Ryzen Threadripper Series Processors (Note: This is an educated guess based on general information about SP3 socket compatibility)
+
+**Max RAM Speed:** DDR4-3200 MHz (Note: This is a common maximum RAM speed for EPYC processors in the SP3 socket)
+
+**Memory Type:** DDR4 (Note: This is the most likely memory type supported by the EPYC 7543P processor)
+
+**CPU Mark:** 67144
+
+**CPU Value:** N/A
+
+**Thread Mark:** 2742
+
+**Thread Value:** N/A
+
+**TDP:** 225
+
+**Power Performance:** 298.42
+
+**Cores:** 32
+"
+I need a CPU of AMD - mid power range,"**CPU Name:** AMD EPYC 7R32
+
+**Company:** AMD
+
+**Socket:** unknown
+
+**Supported Chipsets:** C621-FM1, C632-FM2
+
+**Max RAM Speed:** 3200 MHz
+
+**Memory Type:** DDR4 ECC
+
+**CPU Mark:** 64727
+
+**CPU Value:** N/A
+
+**Thread Mark:** 1922
+
+**Thread Value:** N/A
+
+**TDP:** 120W
+
+**Power Performance:** 2.8
+
+**Cores:** 48
+"
+I need a CPU of AMD - mid power range,"**CPU Name:** AMD Ryzen Threadripper 3970X
+
+**Company:** AMD
+
+**Socket:** sTRX4
+
+**Supported Chipsets:** X570, TRX40
+
+**Max RAM Speed:** DDR4-3200
+
+**Memory Type:** DDR4
+
+**CPU Mark:** 63835
+
+**CPU Value:** N/A
+
+**Thread Mark:** 2694
+
+**Thread Value:** N/A
+
+**TDP:** 280
+
+**Power Performance:** 227.98
+
+**Cores:** 32
+"
+I need a CPU of AMD - mid power range,"**CPU Name:** AMD Ryzen Threadripper PRO 3975WX
+
+**Company:** AMD
+
+**Socket:** sWRX8
+
+**Supported Chipsets:** ASRock X570 Taichi, ASUS PRIME X570-UD, MSI MEG X570 GODLIKE
+
+**Max RAM Speed:** DDR4-3200
+
+**Memory Type:** DDR4
+
+**CPU Mark:** 63495
+
+**CPU Value:** N/A
+
+**Thread Mark:** 2666
+
+**Thread Value:** N/A
+
+**TDP:** 280
+
+**Power Performance:** 226.77
+
+**Cores:** 32
+"
+I need a CPU of Intel - mid power range,"**CPU Name:** Intel Xeon Platinum 8380 @ 2.30GHz
+
+**Company:** Intel
+
+**Socket:** FCLGA4189
+
+**Supported Chipsets:** LGA 4189
+
+**Max RAM Speed:** DDR4-2933 or higher
+
+**Memory Type:** DDR4
+
+**CPU Mark:** 62317
+
+**CPU Value:** N/A
+
+**Thread Mark:** 2385
+
+**Thread Value:** N/A
+
+**TDP:** 270
+
+**Power Performance:** 230.81
+
+**Cores:** 40
+"
+I need a CPU of AMD - mid power range,"**CPU Name:** AMD EPYC 7702P
+
+**Company:** AMD
+
+**Socket:** SP3
+
+**Supported Chipsets:** x86-64, PCIe 4.0
+
+**Max RAM Speed:** DDR4-3200, DDR5-4800
+
+**Memory Type:** DDR4 and DDR5
+
+**CPU Mark:** 61689
+
+**CPU Value:** N/A
+
+**Thread Mark:** 2110
+
+**Thread Value:** N/A
+
+**TDP:** 200
+
+**Power Performance:** 308.44
+
+**Cores:** 64
+"
+I need a CPU of AMD - mid power range,"**CPU Name:** AMD EPYC 74F3
+
+**Company:** AMD
+
+**Socket:** SP3
+
+**Supported Chipsets:** Rome (AMD X11)
+
+**Max RAM Speed:** DDR4-3200
+
+**Memory Type:** DDR4
+
+**CPU Mark:** 60948
+
+**CPU Value:** N/A
+
+**Thread Mark:** 2975
+
+**Thread Value:** N/A
+
+**TDP:** 240
+
+**Power Performance:** 253.95
+
+**Cores:** 24
+"
+I need a CPU of AMD - low power range,"**CPU Name:** AMD EPYC 7513
+
+**Company:** AMD
+
+**Socket:** SP3
+
+**Supported Chipsets:** AM4
+
+**Max RAM Speed:** DDR4-3200/ DDR5-4800
+
+**Memory Type:** DDR4/DDR5
+
+**CPU Mark:** 59732
+
+**CPU Value:** N/A
+
+**Thread Mark:** 2447
+
+**Thread Value:** N/A
+
+**TDP:** 200
+
+**Power Performance:** 298.66
+
+**Cores:** 32
+"
+I need a CPU of AMD - low power range,"**CPU Name:** AMD EPYC 7443P
+
+**Company:** AMD
+
+**Socket:** SP3
+
+**Supported Chipsets:** Xeon E5 v4/v3, EPYC 7000
+
+**Max RAM Speed:** DDR4-3200
+
+**Memory Type:** DDR4 ECC Unbuffered/Low-Power (LP) or DDR4 ECC Registered/Buffered
+
+**CPU Mark:** 57666
+
+**CPU Value:** N/A
+
+**Thread Mark:** 2965
+
+**Thread Value:** N/A
+
+**TDP:** 200
+
+**Power Performance:** 288.33
+
+**Cores:** 24
+"
+I need a CPU of AMD - low power range,"**CPU Name:** AMD EPYC 7542
+
+**Company:** AMD
+
+**Socket:** SP3
+
+**Supported Chipsets:** Xeon D
+
+**Max RAM Speed:** 3200MHz
+
+**Memory Type:** DDR4
+
+**CPU Mark:** 56728
+
+**CPU Value:** N/A
+
+**Thread Mark:** 2207
+
+**Thread Value:** N/A
+
+**TDP:** 225
+
+**Power Performance:** 252.13
+
+**Cores:** 32
+"
+I need a CPU of AMD - low power range,"**CPU Name:** AMD EPYC 7543
+
+**Company:** AMD
+
+**Socket:** SP3
+
+**Supported Chipsets:** Xeon E5 v2/v3, Xeon E7 v2/v3, EPYC 7000
+
+**Max RAM Speed:** 3200 MT/s
+
+**Memory Type:** DDR4
+
+**CPU Mark:** 56562
+
+**CPU Value:** N/A
+
+**Thread Mark:** 2563
+
+**Thread Value:** N/A
+
+**TDP:** 240
+
+**Power Performance:** 235.68
+
+**Cores:** 32
+"
+I need a CPU of AMD - low power range,"**CPU Name:** AMD EPYC 7532
+
+**Company:** AMD
+
+**Socket:** SP3
+
+**Supported Chipsets:** x86 (Rome)
+
+**Max RAM Speed:** 3200 MHz
+
+**Memory Type:** DDR4-3200
+
+**CPU Mark:** 55358
+
+**CPU Value:** N/A
+
+**Thread Mark:** 2137
+
+**Thread Value:** N/A
+
+**TDP:** 200
+
+**Power Performance:** 276.79
+
+**Cores:** 32
+"
+I need a CPU of AMD - low power range,"**CPU Name:** AMD Ryzen Threadripper 3960X
+
+**Company:** AMD
+
+**Socket:** sTRX4
+
+**Supported Chipsets:** ASRock X570 Taichi
+
+**Max RAM Speed:** DDR4-3200
+
+**Memory Type:** 
+
+**CPU Mark:** 54757
+
+**CPU Value:** N/A
+
+**Thread Mark:** 2678
+
+**Thread Value:** N/A
+
+**TDP:** 280
+
+**Power Performance:** 195.56
+
+**Cores:** 24
+"
+I need a CPU of Intel - low power range,"**CPU Name:** Intel Xeon Platinum 8358 @ 2.60GHz
+
+**Company:** Intel
+
+**Socket:** FCLGA4189
+
+**Supported Chipsets:** Intel C621
+
+**Max RAM Speed:** DDR4-3200, DDR5-4800
+
+**Memory Type:** 
+
+**CPU Mark:** 54416
+
+**CPU Value:** N/A
+
+**Thread Mark:** 2382
+
+**Thread Value:** N/A
+
+**TDP:** 250
+
+**Power Performance:** 217.67
+
+**Cores:** 32
+"
+I need a CPU of AMD - low power range,"**CPU Name:** AMD EPYC 7453
+
+**Company:** AMD
+
+**Socket:** SP3
+
+**Supported Chipsets:** Rome (TRX40)
+
+**Max RAM Speed:** DDR4-3200
+
+**Memory Type:** DDR4
+
+**CPU Mark:** 53511
+
+**CPU Value:** N/A
+
+**Thread Mark:** 2580
+
+**Thread Value:** N/A
+
+**TDP:** 225
+
+**Power Performance:** 237.83
+
+**Cores:** 28
+"
+I need a CPU of Intel - low power range,"**CPU Name:** Intel Xeon Gold 6348 @ 2.60GHz
+
+**Company:** Intel
+
+**Socket:** FCLGA4189
+
+**Supported Chipsets:** Intel C621 series
+
+**Max RAM Speed:** DDR4-2933
+
+**Memory Type:** DDR4
+
+**CPU Mark:** 53112
+
+**CPU Value:** N/A
+
+**Thread Mark:** 2455
+
+**Thread Value:** N/A
+
+**TDP:** 235
+
+**Power Performance:** 226.01
+
+**Cores:** 28
+"
+I need a CPU of Intel - low power range,"**CPU Name:** Intel Xeon Platinum 8375C @ 2.90GHz
+
+**Company:** Intel
+
+**Socket:** FCLGA4189
+
+**Supported Chipsets:** LGA 4189
+
+**Max RAM Speed:** DDR4-3200
+
+**Memory Type:** DDR4
+
+**CPU Mark:** 51836
+
+**CPU Value:** N/A
+
+**Thread Mark:** 2439
+
+**Thread Value:** N/A
+
+**TDP:** 300
+
+**Power Performance:** 172.79
+
+**Cores:** 32
+"
+I need a CPU of AMD - low power range,"**CPU Name:** AMD Ryzen Threadripper PRO 5955WX
+
+**Company:** AMD
+
+**Socket:** sWRX8
+
+**Supported Chipsets:** TRX40
+
+**Max RAM Speed:** 3200 MHz
+
+**Memory Type:** DDR4-3200, DDR5-4800
+
+**CPU Mark:** 51656
+
+**CPU Value:** N/A
+
+**Thread Mark:** 3346
+
+**Thread Value:** N/A
+
+**TDP:** 280
+
+**Power Performance:** 184.48
+
+**Cores:** 16
+"
+I need a CPU of AMD - low power range,"**CPU Name:** AMD EPYC 7402
+
+**Company:** AMD
+
+**Socket:** SP3
+
+**Supported Chipsets:** Rome
+
+**Max RAM Speed:** 3200 MHz
+
+**Memory Type:** DDR4-3200
+
+**CPU Mark:** 51368
+
+**CPU Value:** N/A
+
+**Thread Mark:** 2081
+
+**Thread Value:** N/A
+
+**TDP:** 180
+
+**Power Performance:** 285.38
+
+**Cores:** 24
+"
+I need a CPU of Intel - low power range,"**CPU Name:** Intel Xeon Platinum 8347C @ 2.10GHz
+
+**Company:** Intel
+
+**Socket:** LGA4189
+
+**Supported Chipsets:** 
+
+**Max RAM Speed:** DDR4-2933
+
+**Memory Type:** DDR4
+
+**CPU Mark:** 49386
+
+**CPU Value:** N/A
+
+**Thread Mark:** 2445
+
+**Thread Value:** N/A
+
+**TDP:** 210
+
+**Power Performance:** 235.17
+
+**Cores:** 36
+"
+I need a CPU of AMD - low power range,"**CPU Name:** AMD EPYC 7502
+
+**Company:** AMD
+
+**Socket:** SP3
+
+**Supported Chipsets:** AMD EPYC 7000 Series Chipset
+
+**Max RAM Speed:** 3200 MHz
+
+**Memory Type:** DDR4
+
+**CPU Mark:** 49177
+
+**CPU Value:** N/A
+
+**Thread Mark:** 1843
+
+**Thread Value:** N/A
+
+**TDP:** 180
+
+**Power Performance:** 273.21
+
+**Cores:** 32
+"
+I need a CPU of AMD - low power range,"**CPU Name:** AMD EPYC 7502P
+
+**Company:** AMD
+
+**Socket:** SP3
+
+**Supported Chipsets:** Xeon E31000 Series, Xeon E32000 Series
+
+**Max RAM Speed:** 3200 MHz
+
+**Memory Type:** DDR4
+
+**CPU Mark:** 48995
+
+**CPU Value:** N/A
+
+**Thread Mark:** 1894
+
+**Thread Value:** N/A
+
+**TDP:** 180
+
+**Power Performance:** 272.19
+
+**Cores:** 32
+"
+I need a CPU of Intel - low power range,"**CPU Name:** Intel Xeon Gold 6342 @ 2.80GHz
+
+**Company:** Intel
+
+**Socket:** FCLGA4189
+
+**Supported Chipsets:** C621
+
+**Max RAM Speed:** DDR4-2933
+
+**Memory Type:** DDR4
+
+**CPU Mark:** 48330
+
+**CPU Value:** N/A
+
+**Thread Mark:** 2453
+
+**Thread Value:** N/A
+
+**TDP:** 230
+
+**Power Performance:** 210.13
+
+**Cores:** 24
+"
+I need a CPU of AMD - low power range,"**CPU Name:** AMD EPYC 7413
+
+**Company:** AMD
+
+**Socket:** SP3
+
+**Supported Chipsets:** Xeon E5 v4/Xeon D-1500 series
+
+**Max RAM Speed:** 3200 MT/s
+
+**Memory Type:** DDR4
+
+**CPU Mark:** 46295
+
+**CPU Value:** N/A
+
+**Thread Mark:** 1983
+
+**Thread Value:** N/A
+
+**TDP:** 180
+
+**Power Performance:** 257.2
+
+**Cores:** 24
+"
+I need a CPU of AMD - low power range,"**CPU Name:** AMD Ryzen 9 5950X
+
+**Company:** AMD
+
+**Socket:** AM4
+
+**Supported Chipsets:** X570, B550, A520
+
+**Max RAM Speed:** 3200MHz
+
+**Memory Type:** DDR4
+
+**CPU Mark:** 46195
+
+**CPU Value:** N/A
+
+**Thread Mark:** 3498
+
+**Thread Value:** N/A
+
+**TDP:** 105
+
+**Power Performance:** 439.96
+
+**Cores:** 16
+"
+I need a CPU of AMD - low power range,"**CPU Name:** AMD EPYC 73F3
+
+**Company:** AMD
+
+**Socket:** SP3
+
+**Supported Chipsets:** x86-64
+
+**Max RAM Speed:** 3200
+
+**Memory Type:** DDR4
+
+**CPU Mark:** 46085
+
+**CPU Value:** N/A
+
+**Thread Mark:** 2878
+
+**Thread Value:** N/A
+
+**TDP:** 240
+
+**Power Performance:** 192.02
+
+**Cores:** 16
+"
+I need a CPU of AMD - low power range,"**CPU Name:** AMD EPYC 7343
+
+**Company:** AMD
+
+**Socket:** SP3
+
+**Supported Chipsets:** c621, c632, xh110
+
+**Max RAM Speed:** 3200MHz
+
+**Memory Type:** DDR4-3200
+
+**CPU Mark:** 45882
+
+**CPU Value:** N/A
+
+**Thread Mark:** 2947
+
+**Thread Value:** N/A
+
+**TDP:** 190
+
+**Power Performance:** 241.48
+
+**Cores:** 16
+"
+I need a CPU of AMD - low power range,"**CPU Name:** AMD EPYC 7713P
+
+**Company:** AMD
+
+**Socket:** SP3
+
+**Supported Chipsets:** Rome (AMD Xeon E7/P series)
+
+**Max RAM Speed:** 3200 MHz
+
+**Memory Type:** DDR4
+
+**CPU Mark:** 45860
+
+**CPU Value:** N/A
+
+**Thread Mark:** 2736
+
+**Thread Value:** N/A
+
+**TDP:** 225
+
+**Power Performance:** 203.82
+
+**Cores:** 64
+"
+I need a CPU of Intel - low power range,"**CPU Name:** Intel Xeon Gold 6336Y @ 2.40GHz
+
+**Company:** Intel
+
+**Socket:** FCLGA4189
+
+**Supported Chipsets:** C621
+
+**Max RAM Speed:** DDR4-3200, DDR5-4800
+
+**Memory Type:** DDR4
+
+**CPU Mark:** 45517
+
+**CPU Value:** N/A
+
+**Thread Mark:** 2522
+
+**Thread Value:** N/A
+
+**TDP:** 185
+
+**Power Performance:** 246.04
+
+**Cores:** 24
+"
+I need a CPU of Intel - low power range,"**CPU Name:** Intel Xeon Gold 6312U @ 2.40GHz
+
+**Company:** Intel
+
+**Socket:** FCLGA4189
+
+**Supported Chipsets:** Intel C621
+
+**Max RAM Speed:** DDR4-3200
+
+**Memory Type:** DDR4
+
+**CPU Mark:** 43745
+
+**CPU Value:** N/A
+
+**Thread Mark:** 2383
+
+**Thread Value:** N/A
+
+**TDP:** 185
+
+**Power Performance:** 236.46
+
+**Cores:** 24
+"
+I need a CPU of Intel - low power range,"**CPU Name:** Intel Xeon Gold 6330 @ 2.00GHz
+
+**Company:** Intel
+
+**Socket:** FCLGA4189
+
+**Supported Chipsets:** W480-LSR (LGA 4189)
+
+**Max RAM Speed:** DDR4-3200
+
+**Memory Type:** DDR4
+
+**CPU Mark:** 43056
+
+**CPU Value:** N/A
+
+**Thread Mark:** 2034
+
+**Thread Value:** N/A
+
+**TDP:** 205
+
+**Power Performance:** 210.03
+
+**Cores:** 28
+"
+I need a CPU of AMD - low power range,"**CPU Name:** AMD EPYC 7601
+
+**Company:** AMD
+
+**Socket:** SP3
+
+**Supported Chipsets:** x86-64
+
+**Max RAM Speed:** 3200 MHz
+
+**Memory Type:** DDR4
+
+**CPU Mark:** 42244
+
+**CPU Value:** N/A
+
+**Thread Mark:** 1941
+
+**Thread Value:** N/A
+
+**TDP:** 180
+
+**Power Performance:** 234.69
+
+**Cores:** 32
+"
+I need a CPU of AMD - low power range,"**CPU Name:** AMD EPYC 7452
+
+**Company:** AMD
+
+**Socket:** SP3
+
+**Supported Chipsets:** TRX40
+
+**Max RAM Speed:** 3200 MT/s
+
+**Memory Type:** DDR4
+
+**CPU Mark:** 41871
+
+**CPU Value:** N/A
+
+**Thread Mark:** 1689
+
+**Thread Value:** N/A
+
+**TDP:** 155
+
+**Power Performance:** 270.14
+
+**Cores:** 32
+"
+I need a CPU of AMD - low power range,"**CPU Name:** AMD EPYC 7402P
+
+**Company:** AMD
+
+**Socket:** SP3
+
+**Supported Chipsets:** Xeon E3-1200 v6 Series and Xeon E5-2600 v4 Series
+
+**Max RAM Speed:** DDR4-3200
+
+**Memory Type:** DDR4
+
+**CPU Mark:** 41741
+
+**CPU Value:** N/A
+
+**Thread Mark:** 1970
+
+**Thread Value:** N/A
+
+**TDP:** 180
+
+**Power Performance:** 231.9
+
+**Cores:** 24
+"
+I need a CPU of Intel - low power range,"**CPU Name:** Intel Xeon Gold 6354 @ 3.00GHz
+
+**Company:** Intel
+
+**Socket:** FCLGA4189
+
+**Supported Chipsets:** Intel C621
+
+**Max RAM Speed:** DDR4-2933
+
+**Memory Type:** DDR4
+
+**CPU Mark:** 41434
+
+**CPU Value:** N/A
+
+**Thread Mark:** 2406
+
+**Thread Value:** N/A
+
+**TDP:** 205
+
+**Power Performance:** 202.12
+
+**Cores:** 18
+"
+I need a CPU of Apple - low power range,"**CPU Name:** Apple M1 Ultra 20 Core
+
+**Company:** Apple
+
+**Socket:** unknown
+
+**Supported Chipsets:** 
+
+**Max RAM Speed:** DDR4-3200 (based on Apple's documentation)
+
+**Memory Type:** LPDDR4X
+
+**CPU Mark:** 41360
+
+**CPU Value:** N/A
+
+**Thread Mark:** 3900
+
+**Thread Value:** N/A
+
+**TDP:** 60
+
+**Power Performance:** 689.34
+
+**Cores:** 16
+"
+I need a CPU of AMD - low power range,"**CPU Name:** AMD EPYC 7F52
+
+**Company:** AMD
+
+**Socket:** SP3
+
+**Supported Chipsets:** x86-64
+
+**Max RAM Speed:** DDR4-3200
+
+**Memory Type:** DDR4
+
+**CPU Mark:** 40951
+
+**CPU Value:** N/A
+
+**Thread Mark:** 2446
+
+**Thread Value:** N/A
+
+**TDP:** 240
+
+**Power Performance:** 170.63
+
+**Cores:** 16
+"
+I need a CPU of AMD - low power range,"**CPU Name:** AMD EPYC 7313P
+
+**Company:** AMD
+
+**Socket:** SP3
+
+**Supported Chipsets:** Xeon E3100 series
+
+**Max RAM Speed:** 3200 MHz
+
+**Memory Type:** DDR4
+
+**CPU Mark:** 40879
+
+**CPU Value:** N/A
+
+**Thread Mark:** 2608
+
+**Thread Value:** N/A
+
+**TDP:** 155
+
+**Power Performance:** 263.74
+
+**Cores:** 16
+"
+I need a CPU of Intel - low power range,"**CPU Name:** Intel Xeon Platinum 8275CL @ 3.00GHz
+
+**Company:** Intel
+
+**Socket:** unknown
+
+**Supported Chipsets:** C621, C632, C652
+
+**Max RAM Speed:** DDR4-3200
+
+**Memory Type:** DDR4
+
+**CPU Mark:** 40794
+
+**CPU Value:** N/A
+
+**Thread Mark:** 2386
+
+**Thread Value:** N/A
+
+**TDP:** 150W
+
+**Power Performance:** 2.53
+
+**Cores:** 24
+"
+I need a CPU of Intel - low power range,"**CPU Name:** Intel Xeon W-3275M @ 2.50GHz
+
+**Company:** Intel
+
+**Socket:** FCLGA3647
+
+**Supported Chipsets:** LGA3647 (Ultra Path Architecture)
+
+**Max RAM Speed:** DDR4-2933
+
+**Memory Type:** 
+
+**CPU Mark:** 40767
+
+**CPU Value:** N/A
+
+**Thread Mark:** 2725
+
+**Thread Value:** N/A
+
+**TDP:** 205
+
+**Power Performance:** 198.86
+
+**Cores:** 28
+"
+I need a CPU of AMD - low power range,"**CPU Name:** AMD EPYC 7313
+
+**Company:** AMD
+
+**Socket:** SP3
+
+**Supported Chipsets:** Xeon E5 v2/v3 and SP3-based EPYC
+
+**Max RAM Speed:** DDR4-3200
+
+**Memory Type:** DDR4 ECC UDIMM/LRDIMM
+
+**CPU Mark:** 40575
+
+**CPU Value:** N/A
+
+**Thread Mark:** 2610
+
+**Thread Value:** N/A
+
+**TDP:** 155
+
+**Power Performance:** 261.77
+
+**Cores:** 16
+"
+I need a CPU of AMD - low power range,"**CPU Name:** AMD EPYC 7352
+
+**Company:** AMD
+
+**Socket:** SP3
+
+**Supported Chipsets:** Xeon E7/4400 series
+
+**Max RAM Speed:** DDR4-3200
+
+**Memory Type:** DDR4
+
+**CPU Mark:** 40472
+
+**CPU Value:** N/A
+
+**Thread Mark:** 1995
+
+**Thread Value:** N/A
+
+**TDP:** 155
+
+**Power Performance:** 261.11
+
+**Cores:** 24
+"
+I need a CPU of AMD - low power range,"**CPU Name:** AMD Ryzen Threadripper PRO 3955WX
+
+**Company:** AMD
+
+**Socket:** sWRX8
+
+**Supported Chipsets:** X399
+
+**Max RAM Speed:** DDR4-3200
+
+**Memory Type:** DDR4
+
+**CPU Mark:** 40225
+
+**CPU Value:** N/A
+
+**Thread Mark:** 2696
+
+**Thread Value:** N/A
+
+**TDP:** 280
+
+**Power Performance:** 143.66
+
+**Cores:** 16
+"
+I need a CPU of Intel - low power range,"**CPU Name:** Intel Xeon W-3265M @ 2.70GHz
+
+**Company:** Intel
+
+**Socket:** FCLGA3647
+
+**Supported Chipsets:** LGA3647
+
+**Max RAM Speed:** DDR4-2933
+
+**Memory Type:** DDR4
+
+**CPU Mark:** 39620
+
+**CPU Value:** N/A
+
+**Thread Mark:** 2718
+
+**Thread Value:** N/A
+
+**TDP:** 205
+
+**Power Performance:** 193.27
+
+**Cores:** 24
+"
+I need a CPU of AMD - low power range,"**CPU Name:** AMD Ryzen 9 3950X
+
+**Company:** AMD
+
+**Socket:** AM4
+
+**Supported Chipsets:** X570, B550, A520
+
+**Max RAM Speed:** 3200 MHz (OC), 2933 MHz (unlocked)
+
+**Memory Type:** DDR4, DDR5 (with BIOS update)
+
+**CPU Mark:** 39157
+
+**CPU Value:** N/A
+
+**Thread Mark:** 2738
+
+**Thread Value:** N/A
+
+**TDP:** 105
+
+**Power Performance:** 372.92
+
+**Cores:** 16
+"
+I need a CPU of Intel - low power range,"**CPU Name:** Intel Xeon W-3335 @ 3.40GHz
+
+**Company:** Intel
+
+**Socket:** FCLGA4189
+
+**Supported Chipsets:** LGA 4189
+
+**Max RAM Speed:** 3200 MHz
+
+**Memory Type:** DDR4, DDR5
+
+**CPU Mark:** 38944
+
+**CPU Value:** N/A
+
+**Thread Mark:** 2556
+
+**Thread Value:** N/A
+
+**TDP:** 250
+
+**Power Performance:** 155.78
+
+**Cores:** 16
+"
+I need a CPU of Intel - low power range,"**CPU Name:** Intel Xeon Gold 6248R @ 3.00GHz
+
+**Company:** Intel
+
+**Socket:** FCLGA3647
+
+**Supported Chipsets:** Intel C621
+
+**Max RAM Speed:** DDR4-2933
+
+**Memory Type:** DDR4
+
+**CPU Mark:** 38604
+
+**CPU Value:** N/A
+
+**Thread Mark:** 2296
+
+**Thread Value:** N/A
+
+**TDP:** 205
+
+**Power Performance:** 188.31
+
+**Cores:** 24
+"
+I need a CPU of ARM - low power range,"**CPU Name:** ARM Neoverse-N1 80 Core 3000 MHz
+
+**Company:** ARM
+
+**Socket:** unknown
+
+**Supported Chipsets:** 
+
+**Max RAM Speed:** DDR4-3200
+
+**Memory Type:** LPDDR4
+
+**CPU Mark:** 38122
+
+**CPU Value:** N/A
+
+**Thread Mark:** 1329
+
+**Thread Value:** N/A
+
+**TDP:** 80W (estimated, as the actual TDP might vary depending on the specific implementation)
+
+**Power Performance:** 3.4 GFLOPS/W (estimated, based on similar ARM-based CPUs)
+
+**Cores:** 80
+"
+I need a CPU of ARM - low power range,"**CPU Name:** ARM Neoverse-N1 80 Core 0 MHz
+
+**Company:** ARM
+
+**Socket:** unknown
+
+**Supported Chipsets:** 
+
+**Max RAM Speed:** 
+
+**Memory Type:** 
+
+**CPU Mark:** 37809
+
+**CPU Value:** N/A
+
+**Thread Mark:** 1311
+
+**Thread Value:** N/A
+
+**TDP:** 
+
+**Power Performance:** 
+
+**Cores:** 80
+"
+I need a CPU of Intel - low power range,"**CPU Name:** Intel Xeon Gold 6346 @ 3.10GHz
+
+**Company:** Intel
+
+**Socket:** FCLGA4189
+
+**Supported Chipsets:** LGA 4189
+
+**Max RAM Speed:** DDR4-3200
+
+**Memory Type:** DDR4
+
+**CPU Mark:** 37606
+
+**CPU Value:** N/A
+
+**Thread Mark:** 2455
+
+**Thread Value:** N/A
+
+**TDP:** 205
+
+**Power Performance:** 183.44
+
+**Cores:** 16
+"
+I need a CPU of Intel - low power range,"**CPU Name:** Intel Xeon Platinum 8280 @ 2.70GHz
+
+**Company:** Intel
+
+**Socket:** FCLGA3647
+
+**Supported Chipsets:** Purley
+
+**Max RAM Speed:** DDR4-2933
+
+**Memory Type:** DDR4
+
+**CPU Mark:** 37575
+
+**CPU Value:** N/A
+
+**Thread Mark:** 2011
+
+**Thread Value:** N/A
+
+**TDP:** 205
+
+**Power Performance:** 183.29
+
+**Cores:** 28
+"
+I need a CPU of Intel - low power range,"**CPU Name:** Intel Xeon Gold 6238R @ 2.20GHz
+
+**Company:** Intel
+
+**Socket:** FCLGA3647
+
+**Supported Chipsets:** Intel C621-F
+
+**Max RAM Speed:** DDR4-2933
+
+**Memory Type:** DDR4 ECC
+
+**CPU Mark:** 37511
+
+**CPU Value:** N/A
+
+**Thread Mark:** 2362
+
+**Thread Value:** N/A
+
+**TDP:** 165
+
+**Power Performance:** 227.34
+
+**Cores:** 28
+"
+I need a CPU of Intel - low power range,"**CPU Name:** Intel Xeon Silver 4316 @ 2.30GHz
+
+**Company:** Intel
+
+**Socket:** FCLGA4189
+
+**Supported Chipsets:** Intel C621
+
+**Max RAM Speed:** DDR4-2933
+
+**Memory Type:** DDR4
+
+**CPU Mark:** 37264
+
+**CPU Value:** N/A
+
+**Thread Mark:** 2380
+
+**Thread Value:** N/A
+
+**TDP:** 150
+
+**Power Performance:** 248.43
+
+**Cores:** 20
+"
+I need a CPU of Intel - low power range,"**CPU Name:** Intel Xeon W-3175X @ 3.10GHz
+
+**Company:** Intel
+
+**Socket:** FCLGA3647
+
+**Supported Chipsets:** Intel C621
+
+**Max RAM Speed:** DDR4-2933
+
+**Memory Type:** DDR4 ECC Registered
+
+**CPU Mark:** 37167
+
+**CPU Value:** N/A
+
+**Thread Mark:** 2148
+
+**Thread Value:** N/A
+
+**TDP:** 255
+
+**Power Performance:** 145.75
+
+**Cores:** 28
+"
+I need a CPU of Intel - low power range,"**CPU Name:** Intel Xeon Gold 6242R @ 3.10GHz
+
+**Company:** Intel
+
+**Socket:** FCLGA3647
+
+**Supported Chipsets:** LGA3647
+
+**Max RAM Speed:** DDR4-3200
+
+**Memory Type:** 
+
+**CPU Mark:** 35352
+
+**CPU Value:** N/A
+
+**Thread Mark:** 2426
+
+**Thread Value:** N/A
+
+**TDP:** 205
+
+**Power Performance:** 172.45
+
+**Cores:** 20
+"
+I need a CPU of Intel - low power range,"**CPU Name:** Intel Xeon Gold 6326 @ 2.90GHz
+
+**Company:** Intel
+
+**Socket:** FCLGA4189
+
+**Supported Chipsets:** Intel C621
+
+**Max RAM Speed:** DDR4-3200
+
+**Memory Type:** DDR4
+
+**CPU Mark:** 35328
+
+**CPU Value:** N/A
+
+**Thread Mark:** 2356
+
+**Thread Value:** N/A
+
+**TDP:** 185
+
+**Power Performance:** 190.96
+
+**Cores:** 16
+"
+I need a CPU of Intel - low power range,"**CPU Name:** Intel Xeon Platinum 8260M @ 2.30GHz
+
+**Company:** Intel
+
+**Socket:** LGA3647
+
+**Supported Chipsets:** Scalable Platform Base Board
+
+**Max RAM Speed:** 2933 MHz
+
+**Memory Type:** DDR4-2933
+
+**CPU Mark:** 33970
+
+**CPU Value:** N/A
+
+**Thread Mark:** 2315
+
+**Thread Value:** N/A
+
+**TDP:** 165
+
+**Power Performance:** 205.88
+
+**Cores:** 24
+"
+I need a CPU of Intel - low power range,"**CPU Name:** Intel Xeon D-2799 @ 2.40GHz
+
+**Company:** Intel
+
+**Socket:** FCBGA2579
+
+**Supported Chipsets:** Broadwell DE
+
+**Max RAM Speed:** DDR4-2133 MHz
+
+**Memory Type:** 
+
+**CPU Mark:** 33792
+
+**CPU Value:** N/A
+
+**Thread Mark:** 2404
+
+**Thread Value:** N/A
+
+**TDP:** 129
+
+**Power Performance:** 261.95
+
+**Cores:** 20
+"
+I need a CPU of Intel - low power range,"**CPU Name:** Intel Core i9-10980XE @ 3.00GHz
+
+**Company:** Intel
+
+**Socket:** FCLGA2066
+
+**Supported Chipsets:** X299
+
+**Max RAM Speed:** DDR4-2933
+
+**Memory Type:** DDR4
+
+**CPU Mark:** 33408
+
+**CPU Value:** N/A
+
+**Thread Mark:** 2667
+
+**Thread Value:** N/A
+
+**TDP:** 165
+
+**Power Performance:** 202.47
+
+**Cores:** 18
+"
+I need a CPU of Intel - low power range,"**CPU Name:** Intel Xeon Gold 5220R @ 2.20GHz
+
+**Company:** Intel
+
+**Socket:** FCLGA3647
+
+**Supported Chipsets:** UPI-X5200
+
+**Max RAM Speed:** DDR4-2933
+
+**Memory Type:** DDR4
+
+**CPU Mark:** 33370
+
+**CPU Value:** N/A
+
+**Thread Mark:** 2399
+
+**Thread Value:** N/A
+
+**TDP:** 150
+
+**Power Performance:** 222.46
+
+**Cores:** 24
+"
+I need a CPU of AMD - low power range,"**CPU Name:** AMD EPYC 7302
+
+**Company:** AMD
+
+**Socket:** SP3
+
+**Supported Chipsets:** Xeon/Wellsburg (SP3)
+
+**Max RAM Speed:** DDR4-3200
+
+**Memory Type:** DDR4 ECC Unbuffered
+
+**CPU Mark:** 33015
+
+**CPU Value:** N/A
+
+**Thread Mark:** 1978
+
+**Thread Value:** N/A
+
+**TDP:** 155
+
+**Power Performance:** 213
+
+**Cores:** 16
+"
+I need a CPU of Intel - low power range,"**CPU Name:** Intel Xeon Platinum 8168 @ 2.70GHz
+
+**Company:** Intel
+
+**Socket:** FCLGA3647
+
+**Supported Chipsets:** Scalable Programmable Platform (SPP)
+
+**Max RAM Speed:** DDR4-2933
+
+**Memory Type:** DDR4
+
+**CPU Mark:** 32616
+
+**CPU Value:** N/A
+
+**Thread Mark:** 2138
+
+**Thread Value:** N/A
+
+**TDP:** 205
+
+**Power Performance:** 159.1
+
+**Cores:** 24
+"
+I need a CPU of AMD - low power range,"**CPU Name:** AMD EPYC 7302P
+
+**Company:** AMD
+
+**Socket:** SP3
+
+**Supported Chipsets:** Xeon D
+
+**Max RAM Speed:** DDR4-3200
+
+**Memory Type:** RDIMM, LRDIMM, UDIMM
+
+**CPU Mark:** 32480
+
+**CPU Value:** N/A
+
+**Thread Mark:** 1878
+
+**Thread Value:** N/A
+
+**TDP:** 155
+
+**Power Performance:** 209.55
+
+**Cores:** 16
+"
+I need a CPU of AMD - low power range,"**CPU Name:** AMD Ryzen Threadripper 2990WX
+
+**Company:** AMD
+
+**Socket:** sTR4
+
+**Supported Chipsets:** X399
+
+**Max RAM Speed:** 3200MHz
+
+**Memory Type:** DDR4
+
+**CPU Mark:** 32475
+
+**CPU Value:** N/A
+
+**Thread Mark:** 2290
+
+**Thread Value:** N/A
+
+**TDP:** 250
+
+**Power Performance:** 129.9
+
+**Cores:** 32
+"
+I need a CPU of Intel - low power range,"**CPU Name:** Intel Xeon Gold 6252 @ 2.10GHz
+
+**Company:** Intel
+
+**Socket:** FCLGA3647
+
+**Supported Chipsets:** C621
+
+**Max RAM Speed:** 2933 MT/s
+
+**Memory Type:** DDR4-2933
+
+**CPU Mark:** 32410
+
+**CPU Value:** N/A
+
+**Thread Mark:** 2143
+
+**Thread Value:** N/A
+
+**TDP:** 150
+
+**Power Performance:** 216.06
+
+**Cores:** 24
+"
+I need a CPU of Intel - low power range,"**CPU Name:** Intel Xeon Gold 6230R @ 2.10GHz
+
+**Company:** Intel
+
+**Socket:** FCLGA3647
+
+**Supported Chipsets:** C621
+
+**Max RAM Speed:** DDR4-2933
+
+**Memory Type:** DDR4
+
+**CPU Mark:** 32223
+
+**CPU Value:** N/A
+
+**Thread Mark:** 2020
+
+**Thread Value:** N/A
+
+**TDP:** 150
+
+**Power Performance:** 214.82
+
+**Cores:** 26
+"
+I need a CPU of Intel - low power range,"**CPU Name:** Intel Core i9-9980XE @ 3.00GHz
+
+**Company:** Intel
+
+**Socket:** FCLGA2066
+
+**Supported Chipsets:** X299
+
+**Max RAM Speed:** 2933MHz
+
+**Memory Type:** DDR4
+
+**CPU Mark:** 31905
+
+**CPU Value:** N/A
+
+**Thread Mark:** 2566
+
+**Thread Value:** N/A
+
+**TDP:** 165
+
+**Power Performance:** 193.37
+
+**Cores:** 18
+"
+I need a CPU of Intel - low power range,"**CPU Name:** Intel Xeon W-2295 @ 3.00GHz
+
+**Company:** Intel
+
+**Socket:** FCLGA2066
+
+**Supported Chipsets:** LGA2066
+
+**Max RAM Speed:** 2933 MHz
+
+**Memory Type:** DDR4
+
+**CPU Mark:** 31680
+
+**CPU Value:** N/A
+
+**Thread Mark:** 2696
+
+**Thread Value:** N/A
+
+**TDP:** 165
+
+**Power Performance:** 192
+
+**Cores:** 18
+"
+I need a CPU of AMD - low power range,"**CPU Name:** AMD EPYC 7282
+
+**Company:** AMD
+
+**Socket:** SP3
+
+**Supported Chipsets:** Rome
+
+**Max RAM Speed:** DDR4-3200
+
+**Memory Type:** DDR4
+
+**CPU Mark:** 31631
+
+**CPU Value:** N/A
+
+**Thread Mark:** 1987
+
+**Thread Value:** N/A
+
+**TDP:** 120
+
+**Power Performance:** 263.59
+
+**Cores:** 16
+"
+I need a CPU of Intel - low power range,"**CPU Name:** Intel Xeon Platinum 8259CL @ 2.50GHz
+
+**Company:** Intel
+
+**Socket:** LGA 3647
+
+**Supported Chipsets:** C621
+
+**Max RAM Speed:** DDR4-2933
+
+**Memory Type:** DDR4
+
+**CPU Mark:** 31500
+
+**CPU Value:** N/A
+
+**Thread Mark:** 1863
+
+**Thread Value:** N/A
+
+**TDP:** 210
+
+**Power Performance:** 150
+
+**Cores:** 24
+"
+I need a CPU of AMD - low power range,"**CPU Name:** AMD EPYC 7371
+
+**Company:** AMD
+
+**Socket:** SP3
+
+**Supported Chipsets:** PCIe4 x24
+
+**Max RAM Speed:** DDR4-3200
+
+**Memory Type:** RDIMM/LRDIMM
+
+**CPU Mark:** 31094
+
+**CPU Value:** N/A
+
+**Thread Mark:** 2377
+
+**Thread Value:** N/A
+
+**TDP:** 180W
+
+**Power Performance:** 15.6
+
+**Cores:** 16
+"
+I need a CPU of Intel - low power range,"**CPU Name:** Intel Core i9-9960X @ 3.10GHz
+
+**Company:** Intel
+
+**Socket:** FCLGA2066
+
+**Supported Chipsets:** TRX40, X299, Z390, Z490, B460, H470, Q470, W480
+
+**Max RAM Speed:** DDR4-3200
+
+**Memory Type:** DDR4
+
+**CPU Mark:** 30655
+
+**CPU Value:** N/A
+
+**Thread Mark:** 2631
+
+**Thread Value:** N/A
+
+**TDP:** 165
+
+**Power Performance:** 185.79
+
+**Cores:** 16
+"
+I need a CPU of Intel - low power range,"**CPU Name:** Intel Xeon Gold 6253CL @ 3.10GHz
+
+**Company:** Intel
+
+**Socket:** FCLGA3647
+
+**Supported Chipsets:** W-8364HP-WR
+
+**Max RAM Speed:** 2933MHz
+
+**Memory Type:** DDR4
+
+**CPU Mark:** 30616
+
+**CPU Value:** N/A
+
+**Thread Mark:** 2346
+
+**Thread Value:** N/A
+
+**TDP:** 205
+
+**Power Performance:** 149.35
+
+**Cores:** 18
+"
+I need a CPU of Intel - low power range,"**CPU Name:** Intel Xeon W-3245 @ 3.20GHz
+
+**Company:** Intel
+
+**Socket:** FCLGA3647
+
+**Supported Chipsets:** Intel C621
+
+**Max RAM Speed:** 3200MHz
+
+**Memory Type:** DDR4
+
+**CPU Mark:** 30549
+
+**CPU Value:** N/A
+
+**Thread Mark:** 2537
+
+**Thread Value:** N/A
+
+**TDP:** 205
+
+**Power Performance:** 149.02
+
+**Cores:** 16
+"
+I need a CPU of AMD - low power range,"**CPU Name:** AMD Ryzen Threadripper 2970WX
+
+**Company:** AMD
+
+**Socket:** sTR4
+
+**Supported Chipsets:** TRX40, X399
+
+**Max RAM Speed:** DDR4-3200
+
+**Memory Type:** DDR4
+
+**CPU Mark:** 30433
+
+**CPU Value:** N/A
+
+**Thread Mark:** 2358
+
+**Thread Value:** N/A
+
+**TDP:** 250
+
+**Power Performance:** 121.73
+
+**Cores:** 24
+"
+I need a CPU of AMD - low power range,"**CPU Name:** AMD EPYC 7551P
+
+**Company:** AMD
+
+**Socket:** SP3
+
+**Supported Chipsets:** Xeon E5-2600 v4 series and similar
+
+**Max RAM Speed:** DDR4-3200MHz
+
+**Memory Type:** DDR4
+
+**CPU Mark:** 30313
+
+**CPU Value:** N/A
+
+**Thread Mark:** 1719
+
+**Thread Value:** N/A
+
+**TDP:** 180
+
+**Power Performance:** 168.4
+
+**Cores:** 32
+"
+I need a CPU of Intel - low power range,"**CPU Name:** Intel Xeon Gold 6246R @ 3.40GHz
+
+**Company:** Intel
+
+**Socket:** FCLGA3647
+
+**Supported Chipsets:** Intel C621
+
+**Max RAM Speed:** DDR4-2933
+
+**Memory Type:** DDR4
+
+**CPU Mark:** 30220
+
+**CPU Value:** N/A
+
+**Thread Mark:** 2321
+
+**Thread Value:** N/A
+
+**TDP:** 205
+
+**Power Performance:** 147.41
+
+**Cores:** 16
+"
+I need a CPU of Intel - low power range,"**CPU Name:** Intel Xeon W-3265 @ 2.70GHz
+
+**Company:** Intel
+
+**Socket:** FCLGA3647
+
+**Supported Chipsets:** LGA3647
+
+**Max RAM Speed:** DDR4-2933
+
+**Memory Type:** DDR4
+
+**CPU Mark:** 30105
+
+**CPU Value:** N/A
+
+**Thread Mark:** 2572
+
+**Thread Value:** N/A
+
+**TDP:** 205
+
+**Power Performance:** 146.85
+
+**Cores:** 24
+"
+I need a CPU of Intel - low power range,"**CPU Name:** Intel Xeon Platinum 8268 @ 2.90GHz
+
+**Company:** Intel
+
+**Socket:** FCLGA3647
+
+**Supported Chipsets:** LGA3647
+
+**Max RAM Speed:** 2933 MHz
+
+**Memory Type:** DDR4-2933
+
+**CPU Mark:** 30103
+
+**CPU Value:** N/A
+
+**Thread Mark:** 2167
+
+**Thread Value:** N/A
+
+**TDP:** 205
+
+**Power Performance:** 146.84
+
+**Cores:** 24
+"
+I need a CPU of Intel - low power range,"**CPU Name:** Intel Xeon Silver 4314 @ 2.40GHz
+
+**Company:** Intel
+
+**Socket:** FCLGA4189
+
+**Supported Chipsets:** LGA 4189
+
+**Max RAM Speed:** DDR4-2933
+
+**Memory Type:** DDR4
+
+**CPU Mark:** 30043
+
+**CPU Value:** N/A
+
+**Thread Mark:** 2179
+
+**Thread Value:** N/A
+
+**TDP:** 135
+
+**Power Performance:** 222.54
+
+**Cores:** 16
+"
+I need a CPU of AMD - low power range,"**CPU Name:** AMD Ryzen Threadripper 2950X
+
+**Company:** AMD
+
+**Socket:** sTR4
+
+**Supported Chipsets:** X399, TRX40
+
+**Max RAM Speed:** 3200 MHz
+
+**Memory Type:** DDR4, DDR4 ECC
+
+**CPU Mark:** 29981
+
+**CPU Value:** N/A
+
+**Thread Mark:** 2488
+
+**Thread Value:** N/A
+
+**TDP:** 180
+
+**Power Performance:** 166.56
+
+**Cores:** 16
+"
+I need a CPU of Intel - low power range,"**CPU Name:** Intel Core i9-7980XE @ 2.60GHz
+
+**Company:** Intel
+
+**Socket:** FCLGA2066
+
+**Supported Chipsets:** X299
+
+**Max RAM Speed:** DDR4-2400
+
+**Memory Type:** DDR4
+
+**CPU Mark:** 29842
+
+**CPU Value:** N/A
+
+**Thread Mark:** 2474
+
+**Thread Value:** N/A
+
+**TDP:** 165
+
+**Power Performance:** 180.86
+
+**Cores:** 18
+"
+I need a CPU of Intel - low power range,"**CPU Name:** Intel Xeon Gold 6254 @ 3.10GHz
+
+**Company:** Intel
+
+**Socket:** FCLGA3647
+
+**Supported Chipsets:** LGA3647
+
+**Max RAM Speed:** DDR4-2933 (Note: This is likely an estimate, as the actual maximum RAM speed may vary depending on the specific configuration)
+
+**Memory Type:** DDR4
+
+**CPU Mark:** 29356
+
+**CPU Value:** N/A
+
+**Thread Mark:** 2381
+
+**Thread Value:** N/A
+
+**TDP:** 200
+
+**Power Performance:** 146.78
+
+**Cores:** 18
+"
+I need a CPU of Intel - low power range,"**CPU Name:** Intel Xeon W-2191B @ 2.30GHz
+
+**Company:** Intel
+
+**Socket:** FCLGA2066
+
+**Supported Chipsets:** LGA2066
+
+**Max RAM Speed:** DDR4-2933
+
+**Memory Type:** DDR4
+
+**CPU Mark:** 29049
+
+**CPU Value:** N/A
+
+**Thread Mark:** 2609
+
+**Thread Value:** N/A
+
+**TDP:** 140
+
+**Power Performance:** 207.49
+
+**Cores:** 18
+"
+I need a CPU of Intel - low power range,"**CPU Name:** Intel Xeon Gold 6148 @ 2.40GHz
+
+**Company:** Intel
+
+**Socket:** FCLGA3647
+
+**Supported Chipsets:** LGA3647
+
+**Max RAM Speed:** DDR4-2933
+
+**Memory Type:** DDR4
+
+**CPU Mark:** 28962
+
+**CPU Value:** N/A
+
+**Thread Mark:** 2182
+
+**Thread Value:** N/A
+
+**TDP:** 150
+
+**Power Performance:** 193.08
+
+**Cores:** 20
+"
+I need a CPU of Intel - low power range,"**CPU Name:** Intel Xeon Gold 6210U @ 2.50GHz
+
+**Company:** Intel
+
+**Socket:** FCLGA3647
+
+**Supported Chipsets:** LGA3647
+
+**Max RAM Speed:** 2933 MHz
+
+**Memory Type:** DDR4
+
+**CPU Mark:** 28915
+
+**CPU Value:** N/A
+
+**Thread Mark:** 2203
+
+**Thread Value:** N/A
+
+**TDP:** 150
+
+**Power Performance:** 192.77
+
+**Cores:** 20
+"
+I need a CPU of Intel - low power range,"**CPU Name:** Intel Xeon Gold 6154 @ 3.00GHz
+
+**Company:** Intel
+
+**Socket:** FCLGA3647
+
+**Supported Chipsets:** UPI LGA3647 (RAS), C621, C622, C624, C626
+
+**Max RAM Speed:** DDR4-2666, DDR3L-2133
+
+**Memory Type:** DDR4-2666, DDR3L-2133
+
+**CPU Mark:** 28848
+
+**CPU Value:** N/A
+
+**Thread Mark:** 2264
+
+**Thread Value:** N/A
+
+**TDP:** 200
+
+**Power Performance:** 144.24
+
+**Cores:** 18
+"
+I need a CPU of AMD - low power range,"**CPU Name:** AMD EPYC 7401P
+
+**Company:** AMD
+
+**Socket:** SP3
+
+**Supported Chipsets:** ASRock Rack C621-4S2/U5-EK11
+
+**Max RAM Speed:** 3200 MHz
+
+**Memory Type:** DDR4
+
+**CPU Mark:** 28271
+
+**CPU Value:** N/A
+
+**Thread Mark:** 1689
+
+**Thread Value:** N/A
+
+**TDP:** 155
+
+**Power Performance:** 182.4
+
+**Cores:** 24
+"
+I need a CPU of ARM - low power range,"**CPU Name:** ARM Neoverse-N1 64 Core 0 MHz
+
+**Company:** ARM
+
+**Socket:** unknown
+
+**Supported Chipsets:** unknown
+
+**Max RAM Speed:** unknown
+
+**Memory Type:** LPDDR4x
+
+**CPU Mark:** 28079
+
+**CPU Value:** N/A
+
+**Thread Mark:** 1085
+
+**Thread Value:** N/A
+
+**TDP:** unknown
+
+**Power Performance:** unknown
+
+**Cores:** 64
+"
+I need a CPU of AMD - low power range,"**CPU Name:** AMD Ryzen Threadripper 1950X
+
+**Company:** AMD
+
+**Socket:** sTR4
+
+**Supported Chipsets:** X399, TRX40
+
+**Max RAM Speed:** DDR4-3200
+
+**Memory Type:** DDR4
+
+**CPU Mark:** 28037
+
+**CPU Value:** N/A
+
+**Thread Mark:** 2293
+
+**Thread Value:** N/A
+
+**TDP:** 180
+
+**Power Performance:** 155.76
+
+**Cores:** 16
+"
+I need a CPU of Intel - low power range,"**CPU Name:** Intel Xeon Gold 6238 @ 2.10GHz
+
+**Company:** Intel
+
+**Socket:** FCLGA3647
+
+**Supported Chipsets:** LGA3647
+
+**Max RAM Speed:** DDR4-2933
+
+**Memory Type:** 
+
+**CPU Mark:** 27617
+
+**CPU Value:** N/A
+
+**Thread Mark:** 1691
+
+**Thread Value:** N/A
+
+**TDP:** 140
+
+**Power Performance:** 197.26
+
+**Cores:** 22
+"
+I need a CPU of Intel - low power range,"**CPU Name:** Intel Xeon Gold 6212U @ 2.40GHz
+
+**Company:** Intel
+
+**Socket:** FCLGA3647
+
+**Supported Chipsets:** 
+
+**Max RAM Speed:** DDR4-2933 MHz
+
+**Memory Type:** DDR4
+
+**CPU Mark:** 27470
+
+**CPU Value:** N/A
+
+**Thread Mark:** 2013
+
+**Thread Value:** N/A
+
+**TDP:** 165
+
+**Power Performance:** 166.48
+
+**Cores:** 24
+"
+I need a CPU of AMD - low power range,"**CPU Name:** AMD EPYC 7571
+
+**Company:** AMD
+
+**Socket:** SP3
+
+**Supported Chipsets:** C621
+
+**Max RAM Speed:** DDR4-3200
+
+**Memory Type:** DDR4
+
+**CPU Mark:** 27445
+
+**CPU Value:** N/A
+
+**Thread Mark:** 1934
+
+**Thread Value:** N/A
+
+**TDP:** 120
+
+**Power Performance:** 228.71
+
+**Cores:** 32
+"
+I need a CPU of Intel - low power range,"**CPU Name:** Intel Xeon Platinum 8173M @ 2.00GHz
+
+**Company:** Intel
+
+**Socket:** FCLGA3647
+
+**Supported Chipsets:** C621
+
+**Max RAM Speed:** DDR4-2933
+
+**Memory Type:** DDR4
+
+**CPU Mark:** 27377
+
+**CPU Value:** N/A
+
+**Thread Mark:** 2123
+
+**Thread Value:** N/A
+
+**TDP:** 165
+
+**Power Performance:** 165.92
+
+**Cores:** 28
+"
+I need a CPU of Intel - low power range,"**CPU Name:** Intel Xeon W-2195 @ 2.30GHz
+
+**Company:** Intel
+
+**Socket:** FCLGA2066
+
+**Supported Chipsets:** TRX40
+
+**Max RAM Speed:** 3200MHz
+
+**Memory Type:** DDR4
+
+**CPU Mark:** 27325
+
+**CPU Value:** N/A
+
+**Thread Mark:** 2413
+
+**Thread Value:** N/A
+
+**TDP:** 140
+
+**Power Performance:** 195.18
+
+**Cores:** 18
+"
+I need a CPU of Intel - low power range,"**CPU Name:** Intel Xeon Gold 6226R @ 2.90GHz
+
+**Company:** Intel
+
+**Socket:** FCLGA3647
+
+**Supported Chipsets:** LGA3647
+
+**Max RAM Speed:** DDR4-2933
+
+**Memory Type:** DDR4
+
+**CPU Mark:** 27211
+
+**CPU Value:** N/A
+
+**Thread Mark:** 2290
+
+**Thread Value:** N/A
+
+**TDP:** 150
+
+**Power Performance:** 181.41
+
+**Cores:** 16
+"
+I need a CPU of Intel - low power range,"**CPU Name:** Intel Xeon Gold 6208U @ 2.90GHz
+
+**Company:** Intel
+
+**Socket:** FCLGA3647
+
+**Supported Chipsets:** LGA3647
+
+**Max RAM Speed:** DDR4-2933
+
+**Memory Type:** 
+
+**CPU Mark:** 26901
+
+**CPU Value:** N/A
+
+**Thread Mark:** 2247
+
+**Thread Value:** N/A
+
+**TDP:** 150
+
+**Power Performance:** 179.34
+
+**Cores:** 16
+"
+I need a CPU of Intel - low power range,"**CPU Name:** Intel Core i9-7960X @ 2.80GHz
+
+**Company:** Intel
+
+**Socket:** FCLGA2066
+
+**Supported Chipsets:** X299
+
+**Max RAM Speed:** DDR4-2400
+
+**Memory Type:** DDR4
+
+**CPU Mark:** 26699
+
+**CPU Value:** N/A
+
+**Thread Mark:** 2525
+
+**Thread Value:** N/A
+
+**TDP:** 165
+
+**Power Performance:** 161.81
+
+**Cores:** 16
+"
+I need a CPU of Intel - low power range,"**CPU Name:** Intel Xeon Platinum 8175M @ 2.50GHz
+
+**Company:** Intel
+
+**Socket:** FCLGA3647
+
+**Supported Chipsets:** LGA3647
+
+**Max RAM Speed:** 2933 MHz (based on the specifications)
+
+**Memory Type:** DDR4-2933
+
+**CPU Mark:** 26659
+
+**CPU Value:** N/A
+
+**Thread Mark:** 1903
+
+**Thread Value:** N/A
+
+**TDP:** 150W (typical design power)
+
+**Power Performance:** 1.45W/GHz (based on the specifications)
+
+**Cores:** 24
+"
+I need a CPU of Intel - low power range,"**CPU Name:** Intel Xeon Gold 6230 @ 2.10GHz
+
+**Company:** Intel
+
+**Socket:** FCLGA3647
+
+**Supported Chipsets:** Intel C621
+
+**Max RAM Speed:** DDR4-2933
+
+**Memory Type:** DDR4
+
+**CPU Mark:** 26657
+
+**CPU Value:** N/A
+
+**Thread Mark:** 2285
+
+**Thread Value:** N/A
+
+**TDP:** 125
+
+**Power Performance:** 213.25
+
+**Cores:** 20
+"
+I need a CPU of Intel - low power range,"**CPU Name:** Intel Xeon Platinum 8160 @ 2.10GHz
+
+**Company:** Intel
+
+**Socket:** FCLGA3647
+
+**Supported Chipsets:** UPI-C6100 Series, C621 Series
+
+**Max RAM Speed:** DDR4-2666, DDR4-2933, DDR4-3200, DDR4-3733, DDR4-4000
+
+**Memory Type:** DDR4
+
+**CPU Mark:** 26485
+
+**CPU Value:** N/A
+
+**Thread Mark:** 1984
+
+**Thread Value:** N/A
+
+**TDP:** 150
+
+**Power Performance:** 176.56
+
+**Cores:** 24
+"
+I need a CPU of AMD - low power range,"**CPU Name:** AMD Ryzen Threadripper 2990X
+
+**Company:** AMD
+
+**Socket:** TR4
+
+**Supported Chipsets:** X399, TRX40
+
+**Max RAM Speed:** DDR4-3200, DDR4-2933 (OC)
+
+**Memory Type:** DDR4
+
+**CPU Mark:** 26469
+
+**CPU Value:** N/A
+
+**Thread Mark:** 2285
+
+**Thread Value:** N/A
+
+**TDP:** 250
+
+**Power Performance:** 105.88
+
+**Cores:** 32
+"
+I need a CPU of Intel - low power range,"**CPU Name:** Intel Xeon Gold 5318Y @ 2.10GHz
+
+**Company:** Intel
+
+**Socket:** FCLGA4189
+
+**Supported Chipsets:** LGA4189 (Intel C621)
+
+**Max RAM Speed:** DDR4-2933 MHz
+
+**Memory Type:** DDR4
+
+**CPU Mark:** 26400
+
+**CPU Value:** N/A
+
+**Thread Mark:** 1826
+
+**Thread Value:** N/A
+
+**TDP:** 165
+
+**Power Performance:** 160
+
+**Cores:** 24
+"
+I need a CPU of Intel - low power range,"**CPU Name:** Intel Xeon Gold 6242 @ 2.80GHz
+
+**Company:** Intel
+
+**Socket:** FCLGA3647
+
+**Supported Chipsets:** Intel C621-FM8
+
+**Max RAM Speed:** 3200 MHz
+
+**Memory Type:** DDR4-3200
+
+**CPU Mark:** 26288
+
+**CPU Value:** N/A
+
+**Thread Mark:** 2196
+
+**Thread Value:** N/A
+
+**TDP:** 150
+
+**Power Performance:** 175.26
+
+**Cores:** 16
+"
+I need a CPU of Intel - low power range,"**CPU Name:** Intel Xeon Gold 5220 @ 2.20GHz
+
+**Company:** Intel
+
+**Socket:** FCLGA3647
+
+**Supported Chipsets:** SP5100; C621-FM2
+
+**Max RAM Speed:** 2933 MHz
+
+**Memory Type:** DDR4-2933
+
+**CPU Mark:** 25740
+
+**CPU Value:** N/A
+
+**Thread Mark:** 2396
+
+**Thread Value:** N/A
+
+**TDP:** 125
+
+**Power Performance:** 205.92
+
+**Cores:** 18
+"
+I need a CPU of Intel - low power range,"**CPU Name:** Intel Xeon E5-2698R v4 @ 2.20GHz
+
+**Company:** Intel
+
+**Socket:** FCLGA2011-3
+
+**Supported Chipsets:** Broadwell-EX
+
+**Max RAM Speed:** 1866 MHz
+
+**Memory Type:** DDR4
+
+**CPU Mark:** 25532
+
+**CPU Value:** N/A
+
+**Thread Mark:** 2225
+
+**Thread Value:** N/A
+
+**TDP:** 120W
+
+**Power Performance:** 155.13
+
+**Cores:** 20
+"
+I need a CPU of AMD - low power range,"**CPU Name:** AMD EPYC 7351P
+
+**Company:** AMD
+
+**Socket:** SP3
+
+**Supported Chipsets:** Xeon E5 v2/v3, Opteron Generation 9
+
+**Max RAM Speed:** DDR4-2400
+
+**Memory Type:** DDR4
+
+**CPU Mark:** 25484
+
+**CPU Value:** N/A
+
+**Thread Mark:** 1809
+
+**Thread Value:** N/A
+
+**TDP:** 155
+
+**Power Performance:** 164.41
+
+**Cores:** 16
+"
+I need a CPU of Intel - low power range,"**CPU Name:** Intel Xeon Platinum 8167M @ 2.00GHz
+
+**Company:** Intel
+
+**Socket:** FCLGA3647
+
+**Supported Chipsets:** LGA3647
+
+**Max RAM Speed:** DDR4-2933
+
+**Memory Type:** DDR4
+
+**CPU Mark:** 25396
+
+**CPU Value:** N/A
+
+**Thread Mark:** 1455
+
+**Thread Value:** N/A
+
+**TDP:** 125W
+
+**Power Performance:** 154.2
+
+**Cores:** 26
+"
+I need a CPU of Intel - low power range,"**CPU Name:** Intel Xeon Gold 5218R @ 2.10GHz
+
+**Company:** Intel
+
+**Socket:** FCLGA3647
+
+**Supported Chipsets:** C621
+
+**Max RAM Speed:** 2933MHz
+
+**Memory Type:** DDR4
+
+**CPU Mark:** 25191
+
+**CPU Value:** N/A
+
+**Thread Mark:** 2200
+
+**Thread Value:** N/A
+
+**TDP:** 125
+
+**Power Performance:** 201.52
+
+**Cores:** 20
+"
+I need a CPU of AMD - low power range,"**CPU Name:** AMD EPYC 7501
+
+**Company:** AMD
+
+**Socket:** SP3
+
+**Supported Chipsets:** Xeon E5 and E7, Opteron
+
+**Max RAM Speed:** DDR4-3200
+
+**Memory Type:** DDR4
+
+**CPU Mark:** 24925
+
+**CPU Value:** N/A
+
+**Thread Mark:** 1925
+
+**Thread Value:** N/A
+
+**TDP:** 155
+
+**Power Performance:** 160.81
+
+**Cores:** 32
+"
+I need a CPU of Intel - low power range,"**CPU Name:** Intel Xeon Gold 6138T @ 2.00GHz
+
+**Company:** Intel
+
+**Socket:** FCLGA3647
+
+**Supported Chipsets:** UPI Link Layer (x4), Scopes, 9th Gen Core-X
+
+**Max RAM Speed:** 2933 MHz
+
+**Memory Type:** DDR4-2933
+
+**CPU Mark:** 24800
+
+**CPU Value:** N/A
+
+**Thread Mark:** 2050
+
+**Thread Value:** N/A
+
+**TDP:** 125
+
+**Power Performance:** 198.4
+
+**Cores:** 20
+"
+I need a CPU of Intel - low power range,"**CPU Name:** Intel Xeon Gold 6143 @ 2.80GHz
+
+**Company:** Intel
+
+**Socket:** FCLGA3647
+
+**Supported Chipsets:** LGA3647
+
+**Max RAM Speed:** DDR4-2666
+
+**Memory Type:** DDR4
+
+**CPU Mark:** 24786
+
+**CPU Value:** N/A
+
+**Thread Mark:** 2248
+
+**Thread Value:** N/A
+
+**TDP:** 205
+
+**Power Performance:** 120.91
+
+**Cores:** 16
+"
+I need a CPU of Intel - low power range,"**CPU Name:** Intel Xeon E5-2699 v4 @ 2.20GHz
+
+**Company:** Intel
+
+**Socket:** FCLGA2011-3
+
+**Supported Chipsets:** Broadwell-EP
+
+**Max RAM Speed:** DDR4-1866
+
+**Memory Type:** 
+
+**CPU Mark:** 24619
+
+**CPU Value:** N/A
+
+**Thread Mark:** 1937
+
+**Thread Value:** N/A
+
+**TDP:** 145
+
+**Power Performance:** 169.79
+
+**Cores:** 22
+"
+I need a CPU of Intel - low power range,"**CPU Name:** Intel Xeon Gold 6150 @ 2.70GHz
+
+**Company:** Intel
+
+**Socket:** FCLGA3647
+
+**Supported Chipsets:** LGA3647
+
+**Max RAM Speed:** 2933 MHz
+
+**Memory Type:** DDR4
+
+**CPU Mark:** 24489
+
+**CPU Value:** N/A
+
+**Thread Mark:** 2190
+
+**Thread Value:** N/A
+
+**TDP:** 165
+
+**Power Performance:** 148.42
+
+**Cores:** 18
+"
+I need a CPU of Intel - low power range,"**CPU Name:** Intel Xeon Gold 6248 @ 2.50GHz
+
+**Company:** Intel
+
+**Socket:** FCLGA3647
+
+**Supported Chipsets:** LGA3647
+
+**Max RAM Speed:** 2933MHz
+
+**Memory Type:** DDR4-2933
+
+**CPU Mark:** 24234
+
+**CPU Value:** N/A
+
+**Thread Mark:** 2290
+
+**Thread Value:** N/A
+
+**TDP:** 150
+
+**Power Performance:** 161.56
+
+**Cores:** 20
+"
+I need a CPU of AMD - low power range,"**CPU Name:** AMD EPYC 7351
+
+**Company:** AMD
+
+**Socket:** SP3
+
+**Supported Chipsets:** Xeon D
+
+**Max RAM Speed:** 3200 MHz
+
+**Memory Type:** DDR4 ECC
+
+**CPU Mark:** 23566
+
+**CPU Value:** N/A
+
+**Thread Mark:** 1821
+
+**Thread Value:** N/A
+
+**TDP:** 155
+
+**Power Performance:** 152.04
+
+**Cores:** 16
+"
+I need a CPU of Intel - low power range,"**CPU Name:** Intel Xeon E5-2696 v3 @ 2.30GHz
+
+**Company:** Intel
+
+**Socket:** LGA2011-v3
+
+**Supported Chipsets:** C612, C613, C616, C621
+
+**Max RAM Speed:** DDR4-1866
+
+**Memory Type:** DDR4 ECC UDIMM/LV DIMM
+
+**CPU Mark:** 23556
+
+**CPU Value:** N/A
+
+**Thread Mark:** 2209
+
+**Thread Value:** N/A
+
+**TDP:** 145
+
+**Power Performance:** 162.45
+
+**Cores:** 18
+"
+I need a CPU of Intel - low power range,"**CPU Name:** Intel Xeon E5-2679 v4 @ 2.50GHz
+
+**Company:** Intel
+
+**Socket:** FCLGA2011-3
+
+**Supported Chipsets:** Broadwell-EP
+
+**Max RAM Speed:** 1866 MHz
+
+**Memory Type:** DDR4
+
+**CPU Mark:** 23512
+
+**CPU Value:** N/A
+
+**Thread Mark:** 1951
+
+**Thread Value:** N/A
+
+**TDP:** 200
+
+**Power Performance:** 117.56
+
+**Cores:** 20
+"
+I need a CPU of Intel - low power range,"**CPU Name:** Intel Xeon E5-2696 v4 @ 2.20GHz
+
+**Company:** Intel
+
+**Socket:** FCLGA2011-3
+
+**Supported Chipsets:** C602, C606, C621
+
+**Max RAM Speed:** 1866 MT/s (PC3-14900)
+
+**Memory Type:** DDR4
+
+**CPU Mark:** 23207
+
+**CPU Value:** N/A
+
+**Thread Mark:** 2248
+
+**Thread Value:** N/A
+
+**TDP:** 145
+
+**Power Performance:** 160.05
+
+**Cores:** 22
+"
+I need a CPU of Intel - low power range,"**CPU Name:** Intel Xeon Platinum 8176 @ 2.10GHz
+
+**Company:** Intel
+
+**Socket:** FCLGA3647
+
+**Supported Chipsets:** LGA3647 (Purley)
+
+**Max RAM Speed:** DDR4-2666
+
+**Memory Type:** 
+
+**CPU Mark:** 23179
+
+**CPU Value:** N/A
+
+**Thread Mark:** 2048
+
+**Thread Value:** N/A
+
+**TDP:** 165
+
+**Power Performance:** 140.48
+
+**Cores:** 28
+"
+I need a CPU of Intel - low power range,"**CPU Name:** Intel Xeon Gold 6138 @ 2.00GHz
+
+**Company:** Intel
+
+**Socket:** FCLGA3647
+
+**Supported Chipsets:** UPI, C621, LGA3647
+
+**Max RAM Speed:** DDR4-2933
+
+**Memory Type:** DDR4
+
+**CPU Mark:** 22851
+
+**CPU Value:** N/A
+
+**Thread Mark:** 2220
+
+**Thread Value:** N/A
+
+**TDP:** 125
+
+**Power Performance:** 182.81
+
+**Cores:** 20
+"
+I need a CPU of Intel - low power range,"**CPU Name:** Intel Xeon Gold 6140 @ 2.30GHz
+
+**Company:** Intel
+
+**Socket:** FCLGA3647
+
+**Supported Chipsets:** LGA3647
+
+**Max RAM Speed:** DDR4-2666
+
+**Memory Type:** DDR4
+
+**CPU Mark:** 22733
+
+**CPU Value:** N/A
+
+**Thread Mark:** 1840
+
+**Thread Value:** N/A
+
+**TDP:** 140
+
+**Power Performance:** 162.38
+
+**Cores:** 18
+"
+I need a CPU of Intel - low power range,"**CPU Name:** Intel Xeon Platinum 8124M @ 3.00GHz
+
+**Company:** Intel
+
+**Socket:** FCLGA3647
+
+**Supported Chipsets:** Intel C621
+
+**Max RAM Speed:** 2933 MHz
+
+**Memory Type:** DDR4-2933
+
+**CPU Mark:** 22298
+
+**CPU Value:** N/A
+
+**Thread Mark:** 2051
+
+**Thread Value:** N/A
+
+**TDP:** 125W
+
+**Power Performance:** 144.5W/1000DMIPS
+
+**Cores:** 18
+"
+I need a CPU of Intel - low power range,"**CPU Name:** Intel Xeon Gold 6152 @ 2.10GHz
+
+**Company:** Intel
+
+**Socket:** FCLGA3647
+
+**Supported Chipsets:** Scalable Performance Platform
+
+**Max RAM Speed:** PC4-2933Y-R
+
+**Memory Type:** DDR4
+
+**CPU Mark:** 22291
+
+**CPU Value:** N/A
+
+**Thread Mark:** 2155
+
+**Thread Value:** N/A
+
+**TDP:** 140
+
+**Power Performance:** 159.22
+
+**Cores:** 22
+"
+I need a CPU of Intel - low power range,"**CPU Name:** Intel Xeon Gold 5218 @ 2.30GHz
+
+**Company:** Intel
+
+**Socket:** FCLGA3647
+
+**Supported Chipsets:** UPI (Intel UltraPath Interconnect)
+
+**Max RAM Speed:** DDR4-2400
+
+**Memory Type:** DDR4
+
+**CPU Mark:** 22117
+
+**CPU Value:** N/A
+
+**Thread Mark:** 2245
+
+**Thread Value:** N/A
+
+**TDP:** 125
+
+**Power Performance:** 176.94
+
+**Cores:** 16
+"
+I need a CPU of AMD - low power range,"**CPU Name:** AMD EPYC 7551
+
+**Company:** AMD
+
+**Socket:** SP3
+
+**Supported Chipsets:** x397
+
+**Max RAM Speed:** DDR4-3200
+
+**Memory Type:** DDR4
+
+**CPU Mark:** 22005
+
+**CPU Value:** N/A
+
+**Thread Mark:** 1736
+
+**Thread Value:** N/A
+
+**TDP:** 180
+
+**Power Performance:** 122.25
+
+**Cores:** 32
+"
+I need a CPU of Intel - low power range,"**CPU Name:** Intel Xeon Gold 6130T @ 2.10GHz
+
+**Company:** Intel
+
+**Socket:** FCLGA3647
+
+**Supported Chipsets:** LGA3647
+
+**Max RAM Speed:** 2933 MT/s
+
+**Memory Type:** DDR4-2933
+
+**CPU Mark:** 21803
+
+**CPU Value:** N/A
+
+**Thread Mark:** 1698
+
+**Thread Value:** N/A
+
+**TDP:** 125
+
+**Power Performance:** 174.43
+
+**Cores:** 16
+"
+I need a CPU of Intel - low power range,"**CPU Name:** Intel Xeon E5-2698 v4 @ 2.20GHz
+
+**Company:** Intel
+
+**Socket:** FCLGA2011-3
+
+**Supported Chipsets:** Intel C610 Series Chipset
+
+**Max RAM Speed:** 1866 MHz
+
+**Memory Type:** DDR4
+
+**CPU Mark:** 21755
+
+**CPU Value:** N/A
+
+**Thread Mark:** 2141
+
+**Thread Value:** N/A
+
+**TDP:** 135
+
+**Power Performance:** 161.15
+
+**Cores:** 20
+"
+I need a CPU of Intel - low power range,"**CPU Name:** Intel Xeon E5-2697 v4 @ 2.30GHz
+
+**Company:** Intel
+
+**Socket:** FCLGA2011-3
+
+**Supported Chipsets:** Broadwell-E
+
+**Max RAM Speed:** DDR4-1866
+
+**Memory Type:** DDR4
+
+**CPU Mark:** 21545
+
+**CPU Value:** N/A
+
+**Thread Mark:** 1963
+
+**Thread Value:** N/A
+
+**TDP:** 145
+
+**Power Performance:** 148.59
+
+**Cores:** 18
+"
+I need a CPU of Intel - low power range,"**CPU Name:** Intel Xeon E5-2697A v4 @ 2.60GHz
+
+**Company:** Intel
+
+**Socket:** FCLGA2011-3
+
+**Supported Chipsets:** C612, C616, C624
+
+**Max RAM Speed:** 1866 MT/s
+
+**Memory Type:** DDR4
+
+**CPU Mark:** 21494
+
+**CPU Value:** N/A
+
+**Thread Mark:** 2038
+
+**Thread Value:** N/A
+
+**TDP:** 145
+
+**Power Performance:** 148.24
+
+**Cores:** 16
+"
+I need a CPU of AMD - low power range,"**CPU Name:** AMD EPYC 7281
+
+**Company:** AMD
+
+**Socket:** SP3
+
+**Supported Chipsets:** Xeon D, SP3
+
+**Max RAM Speed:** DDR4-3200
+
+**Memory Type:** DDR4
+
+**CPU Mark:** 21230
+
+**CPU Value:** N/A
+
+**Thread Mark:** 1613
+
+**Thread Value:** N/A
+
+**TDP:** 155
+
+**Power Performance:** 136.97
+
+**Cores:** 16
+"
+I need a CPU of Intel - low power range,"**CPU Name:** Intel Xeon E5-2697R v4 @ 2.30GHz
+
+**Company:** Intel
+
+**Socket:** FCLGA2011-3
+
+**Supported Chipsets:** C610, C612
+
+**Max RAM Speed:** DDR4 1600 MHz
+
+**Memory Type:** DDR4
+
+**CPU Mark:** 20843
+
+**CPU Value:** N/A
+
+**Thread Mark:** 2007
+
+**Thread Value:** N/A
+
+**TDP:** 145
+
+**Power Performance:** 143.74
+
+**Cores:** 18
+"
+I need a CPU of Intel - low power range,"**CPU Name:** Intel Xeon Gold 6130 @ 2.10GHz
+
+**Company:** Intel
+
+**Socket:** FCLGA3647
+
+**Supported Chipsets:** C621
+
+**Max RAM Speed:** DDR4-2933
+
+**Memory Type:** DDR4 ECC Registered
+
+**CPU Mark:** 20721
+
+**CPU Value:** N/A
+
+**Thread Mark:** 1880
+
+**Thread Value:** N/A
+
+**TDP:** 125
+
+**Power Performance:** 165.77
+
+**Cores:** 16
+"
+I need a CPU of AMD - low power range,"**CPU Name:** AMD EPYC 7451
+
+**Company:** AMD
+
+**Socket:** SP3
+
+**Supported Chipsets:** Zen 2
+
+**Max RAM Speed:** DDR4-3200
+
+**Memory Type:** DDR4
+
+**CPU Mark:** 20471
+
+**CPU Value:** N/A
+
+**Thread Mark:** 1975
+
+**Thread Value:** N/A
+
+**TDP:** 180
+
+**Power Performance:** 113.73
+
+**Cores:** 24
+"
+I need a CPU of Intel - low power range,"**CPU Name:** Intel Xeon E5-2695 v4 @ 2.10GHz
+
+**Company:** Intel
+
+**Socket:** FCLGA2011-3
+
+**Supported Chipsets:** Intel C612, Intel S2600CP, Intel S2600CO
+
+**Max RAM Speed:** 1866 MHz
+
+**Memory Type:** DDR4
+
+**CPU Mark:** 20373
+
+**CPU Value:** N/A
+
+**Thread Mark:** 1948
+
+**Thread Value:** N/A
+
+**TDP:** 120
+
+**Power Performance:** 169.77
+
+**Cores:** 18
+"
+I need a CPU of Intel - low power range,"**CPU Name:** Intel Xeon E5-2699 v3 @ 2.30GHz
+
+**Company:** Intel
+
+**Socket:** LGA2011-v3
+
+**Supported Chipsets:** C612, C604
+
+**Max RAM Speed:** 1866 MHz
+
+**Memory Type:** DDR4
+
+**CPU Mark:** 20138
+
+**CPU Value:** N/A
+
+**Thread Mark:** 1916
+
+**Thread Value:** N/A
+
+**TDP:** 145
+
+**Power Performance:** 138.88
+
+**Cores:** 18
+"
+I need a CPU of Intel - low power range,"**CPU Name:** Intel Xeon E5-2699C v4 @ 2.20GHz
+
+**Company:** Intel
+
+**Socket:** FCLGA2011-3
+
+**Supported Chipsets:** C612, C616
+
+**Max RAM Speed:** 1866 MT/s (or DDR3-1600)
+
+**Memory Type:** DDR3
+
+**CPU Mark:** 20079
+
+**CPU Value:** N/A
+
+**Thread Mark:** 1622
+
+**Thread Value:** N/A
+
+**TDP:** 145
+
+**Power Performance:** 138.47
+
+**Cores:** 22
+"
+I need a CPU of Intel - low power range,"**CPU Name:** Intel Xeon E5-2698 v3 @ 2.30GHz
+
+**Company:** Intel
+
+**Socket:** LGA2011-v3
+
+**Supported Chipsets:** C612, C622, C624
+
+**Max RAM Speed:** 1866 MHz
+
+**Memory Type:** DDR4
+
+**CPU Mark:** 19794
+
+**CPU Value:** N/A
+
+**Thread Mark:** 1990
+
+**Thread Value:** N/A
+
+**TDP:** 135
+
+**Power Performance:** 146.62
+
+**Cores:** 16
+"
+I need a CPU of Intel - low power range,"**CPU Name:** Intel Xeon E5-2682 v4 @ 2.50GHz
+
+**Company:** Intel
+
+**Socket:** FCLGA2011-3
+
+**Supported Chipsets:** Broadwell-WCHP
+
+**Max RAM Speed:** 1866MHz
+
+**Memory Type:** DDR4
+
+**CPU Mark:** 19551
+
+**CPU Value:** N/A
+
+**Thread Mark:** 1868
+
+**Thread Value:** N/A
+
+**TDP:** 120
+
+**Power Performance:** 162.93
+
+**Cores:** 16
+"
+I need a CPU of Intel - low power range,"**CPU Name:** Intel Xeon Silver 4216 @ 2.10GHz
+
+**Company:** Intel
+
+**Socket:** FCLGA3647
+
+**Supported Chipsets:** UPI, QPI (supporting up to 4 CPUs)
+
+**Max RAM Speed:** 2933 MT/s
+
+**Memory Type:** DDR4-2933
+
+**CPU Mark:** 19451
+
+**CPU Value:** N/A
+
+**Thread Mark:** 1775
+
+**Thread Value:** N/A
+
+**TDP:** 100
+
+**Power Performance:** 194.51
+
+**Cores:** 16
+"
+I need a CPU of Intel - low power range,"**CPU Name:** Intel Xeon Gold 6137 @ 3.90GHz
+
+**Company:** Intel
+
+**Socket:** FCLGA-3647
+
+**Supported Chipsets:** LGA3647
+
+**Max RAM Speed:** DDR4-2666
+
+**Memory Type:** DDR4
+
+**CPU Mark:** 19365
+
+**CPU Value:** N/A
+
+**Thread Mark:** 2499
+
+**Thread Value:** N/A
+
+**TDP:** 205
+
+**Power Performance:** 94.46
+
+**Cores:** 16
+"
+I need a CPU of Intel - low power range,"**CPU Name:** Intel Xeon E5-2676 v4 @ 2.40GHz
+
+**Company:** Intel
+
+**Socket:** FCLGA2011-3
+
+**Supported Chipsets:** C606, C216
+
+**Max RAM Speed:** 1866 MHz
+
+**Memory Type:** DDR4-1600
+
+**CPU Mark:** 18978
+
+**CPU Value:** N/A
+
+**Thread Mark:** 1730
+
+**Thread Value:** N/A
+
+**TDP:** 145
+
+**Power Performance:** 130.88
+
+**Cores:** 16
+"
+I need a CPU of Hygon - low power range,"**CPU Name:** Hygon C86 7255 16-core
+
+**Company:** Hygon
+
+**Socket:** unknown
+
+**Supported Chipsets:** X470, B550, A520 (based on previous AMD CPUs with similar names)
+
+**Max RAM Speed:** DDR4-3200 (common speed for this era of CPUs)
+
+**Memory Type:** DDR4
+
+**CPU Mark:** 18831
+
+**CPU Value:** N/A
+
+**Thread Mark:** 1490
+
+**Thread Value:** N/A
+
+**TDP:** 65W (assuming a standard desktop CPU power consumption)
+
+**Power Performance:** 
+
+**Cores:** 16
+"
+I need a CPU of ARM - low power range,"**CPU Name:** ARM Neoverse-N1 80 Core 2600 MHz
+
+**Company:** ARM
+
+**Socket:** unknown
+
+**Supported Chipsets:** Custom (ARM-based)
+
+**Max RAM Speed:** DDR4-3200 (or higher, since it's not specified)
+
+**Memory Type:** DDR4
+
+**CPU Mark:** 18823
+
+**CPU Value:** N/A
+
+**Thread Mark:** 1127
+
+**Thread Value:** N/A
+
+**TDP:** unknown (since the power consumption of this custom CPU is not specified)
+
+**Power Performance:** unknown (since this metric is typically used for x86-based CPUs)
+
+**Cores:** 80
+"
+I need a CPU of Intel - low power range,"**CPU Name:** Intel Xeon Platinum P-8124 @ 3.00GHz
+
+**Company:** Intel
+
+**Socket:** FCLGA3647
+
+**Supported Chipsets:** Scalable Performance Family
+
+**Max RAM Speed:** 2933 MHz
+
+**Memory Type:** DDR4-2933
+
+**CPU Mark:** 18416
+
+**CPU Value:** N/A
+
+**Thread Mark:** 2007
+
+**Thread Value:** N/A
+
+**TDP:** 240
+
+**Power Performance:** 76.73
+
+**Cores:** 18
+"
+I need a CPU of Intel - low power range,"**CPU Name:** Intel Xeon D-2183IT @ 2.20GHz
+
+**Company:** Intel
+
+**Socket:** FCBGA2518
+
+**Supported Chipsets:** Broadwell-EX
+
+**Max RAM Speed:** DDR4-2400
+
+**Memory Type:** DDR4
+
+**CPU Mark:** 18385
+
+**CPU Value:** N/A
+
+**Thread Mark:** 1728
+
+**Thread Value:** N/A
+
+**TDP:** 100
+
+**Power Performance:** 183.85
+
+**Cores:** 16
+"
+I need a CPU of Intel - low power range,"**CPU Name:** Intel Xeon E7-8880 v3 @ 2.30GHz
+
+**Company:** Intel
+
+**Socket:** LGA2011-1
+
+**Supported Chipsets:** Intel C606, Intel C204, Intel S1600SE
+
+**Max RAM Speed:** DDR4-1866
+
+**Memory Type:** DDR4 ECC
+
+**CPU Mark:** 18244
+
+**CPU Value:** N/A
+
+**Thread Mark:** 1612
+
+**Thread Value:** N/A
+
+**TDP:** 150
+
+**Power Performance:** 121.63
+
+**Cores:** 18
+"
+I need a CPU of Intel - low power range,"**CPU Name:** Intel Xeon E5-2686 v3 @ 2.00GHz
+
+**Company:** Intel
+
+**Socket:** LGA2011-v3
+
+**Supported Chipsets:** C612, C606, C602J, C601
+
+**Max RAM Speed:** 1866 MT/s ( MHz )
+
+**Memory Type:** DDR4
+
+**CPU Mark:** 18148
+
+**CPU Value:** N/A
+
+**Thread Mark:** 1910
+
+**Thread Value:** N/A
+
+**TDP:** 120
+
+**Power Performance:** 151.24
+
+**Cores:** 18
+"
+I need a CPU of Intel - low power range,"**CPU Name:** Intel Xeon D-2187NT @ 2.00GHz
+
+**Company:** Intel
+
+**Socket:** FCBGA2518
+
+**Supported Chipsets:** Broadwell DE
+
+**Max RAM Speed:** DDR3-1600
+
+**Memory Type:** DDR3
+
+**CPU Mark:** 18070
+
+**CPU Value:** N/A
+
+**Thread Mark:** 1425
+
+**Thread Value:** N/A
+
+**TDP:** 110
+
+**Power Performance:** 164.27
+
+**Cores:** 16
+"
+I need a CPU of Intel - low power range,"**CPU Name:** Intel Xeon E5-2673 v4 @ 2.30GHz
+
+**Company:** Intel
+
+**Socket:** FCLGA2011-3
+
+**Supported Chipsets:** EP8521/EP8541/EP8561/EP8581
+
+**Max RAM Speed:** DDR4-1866
+
+**Memory Type:** DDR4
+
+**CPU Mark:** 17533
+
+**CPU Value:** N/A
+
+**Thread Mark:** 1909
+
+**Thread Value:** N/A
+
+**TDP:** 135
+
+**Power Performance:** 129.87
+
+**Cores:** 20
+"
+I need a CPU of Intel - low power range,"**CPU Name:** Intel Xeon E5-4669 v3 @ 2.10GHz
+
+**Company:** Intel
+
+**Socket:** FCLGA2011-3
+
+**Supported Chipsets:** Intel C612, Intel S2620UR
+
+**Max RAM Speed:** DDR4-1866MHz
+
+**Memory Type:** DDR4
+
+**CPU Mark:** 17430
+
+**CPU Value:** N/A
+
+**Thread Mark:** 1474
+
+**Thread Value:** N/A
+
+**TDP:** 135
+
+**Power Performance:** 129.11
+
+**Cores:** 18
+"
+I need a CPU of Intel - low power range,"**CPU Name:** Intel Xeon E5-2683 v4 @ 2.10GHz
+
+**Company:** Intel
+
+**Socket:** FCLGA2011-3
+
+**Supported Chipsets:** Broadwell-EP
+
+**Max RAM Speed:** 1866 MHz
+
+**Memory Type:** DDR4
+
+**CPU Mark:** 17388
+
+**CPU Value:** N/A
+
+**Thread Mark:** 1633
+
+**Thread Value:** N/A
+
+**TDP:** 120
+
+**Power Performance:** 144.9
+
+**Cores:** 16
+"
+I need a CPU of Intel - low power range,"**CPU Name:** Intel Xeon E5-2686 v4 @ 2.30GHz
+
+**Company:** Intel
+
+**Socket:** FCLGA2011-3
+
+**Supported Chipsets:** C612
+
+**Max RAM Speed:** 1866 MHz
+
+**Memory Type:** DDR4
+
+**CPU Mark:** 16745
+
+**CPU Value:** N/A
+
+**Thread Mark:** 1613
+
+**Thread Value:** N/A
+
+**TDP:** 145
+
+**Power Performance:** 115.48
+
+**Cores:** 18
+"
+I need a CPU of Intel - low power range,"**CPU Name:** Intel Xeon E5-4667 v3 @ 2.00GHz
+
+**Company:** Intel
+
+**Socket:** FCLGA2011-3
+
+**Supported Chipsets:** LGA2011-3
+
+**Max RAM Speed:** 1866 MHz
+
+**Memory Type:** DDR4
+
+**CPU Mark:** 15397
+
+**CPU Value:** N/A
+
+**Thread Mark:** 1461
+
+**Thread Value:** N/A
+
+**TDP:** 135
+
+**Power Performance:** 114.05
+
+**Cores:** 16
+"
+I need a CPU of AMD - low power range,"**CPU Name:** AMD EPYC 7301
+
+**Company:** AMD
+
+**Socket:** SP3
+
+**Supported Chipsets:** Xeon E5/E7, Opteron G34/G42
+
+**Max RAM Speed:** DDR4-3200
+
+**Memory Type:** DDR4
+
+**CPU Mark:** 14991
+
+**CPU Value:** N/A
+
+**Thread Mark:** 1363
+
+**Thread Value:** N/A
+
+**TDP:** 155
+
+**Power Performance:** 96.72
+
+**Cores:** 16
+"
+I need a CPU of Intel - low power range,"**CPU Name:** Intel Xeon E5-2699A v4 @ 2.40GHz
+
+**Company:** Intel
+
+**Socket:** FCLGA2011-3
+
+**Supported Chipsets:** C612, C622, C621, C216
+
+**Max RAM Speed:** 1866 MHz
+
+**Memory Type:** DDR4
+
+**CPU Mark:** 14917
+
+**CPU Value:** N/A
+
+**Thread Mark:** 1037
+
+**Thread Value:** N/A
+
+**TDP:** 145
+
+**Power Performance:** 102.87
+
+**Cores:** 22
+"
+I need a CPU of Intel - low power range,"**CPU Name:** Intel Xeon E5-2675 v3 @ 1.80GHz
+
+**Company:** Intel
+
+**Socket:** LGA2011-v3
+
+**Supported Chipsets:** C612, C602, C601
+
+**Max RAM Speed:** 1866 MHz
+
+**Memory Type:** DDR4
+
+**CPU Mark:** 11960
+
+**CPU Value:** N/A
+
+**Thread Mark:** 1209
+
+**Thread Value:** N/A
+
+**TDP:** 105W
+
+**Power Performance:** 1.22W/gH
+
+**Cores:** 16
+"
+I need a CPU of Intel - low power range,"**CPU Name:** Intel Xeon D-1577 @ 1.30GHz
+
+**Company:** Intel
+
+**Socket:** FCBGA1667
+
+**Supported Chipsets:** Broadwell DE
+
+**Max RAM Speed:** DDR3-1333, DDR4-2133, DDR4-2400
+
+**Memory Type:** 
+
+**CPU Mark:** 11645
+
+**CPU Value:** N/A
+
+**Thread Mark:** 1319
+
+**Thread Value:** N/A
+
+**TDP:** 45
+
+**Power Performance:** 258.78
+
+**Cores:** 16
+"
+I need a CPU of Intel - low power range,"**CPU Name:** Intel Xeon E5-4669 v4 @ 2.20GHz
+
+**Company:** Intel
+
+**Socket:** FCLGA2011-3
+
+**Supported Chipsets:** C602, C612, C621
+
+**Max RAM Speed:** 1866 MHz
+
+**Memory Type:** DDR4
+
+**CPU Mark:** 11523
+
+**CPU Value:** N/A
+
+**Thread Mark:** 1366
+
+**Thread Value:** N/A
+
+**TDP:** 135
+
+**Power Performance:** 85.35
+
+**Cores:** 22
+"
+I need a CPU of ARM - low power range,"**CPU Name:** ARM Neoverse-N1 16 Core 0 MHz
+
+**Company:** ARM
+
+**Socket:** unknown
+
+**Supported Chipsets:** 
+
+**Max RAM Speed:** 
+
+**Memory Type:** 
+
+**CPU Mark:** 11281
+
+**CPU Value:** N/A
+
+**Thread Mark:** 1272
+
+**Thread Value:** N/A
+
+**TDP:** 
+
+**Power Performance:** 
+
+**Cores:** 16
+"
+I need a CPU of Intel - low power range,"**CPU Name:** Intel Xeon D-1581 @ 1.80GHz
+
+**Company:** Intel
+
+**Socket:** FCBGA1667
+
+**Supported Chipsets:** Intel C621
+
+**Max RAM Speed:** DDR4-2933
+
+**Memory Type:** DDR4
+
+**CPU Mark:** 10476
+
+**CPU Value:** N/A
+
+**Thread Mark:** 1466
+
+**Thread Value:** N/A
+
+**TDP:** 65
+
+**Power Performance:** 161.16
+
+**Cores:** 16
+"
+I need a CPU of Intel - low power range,"**CPU Name:** Intel Xeon D-1587 @ 1.70GHz
+
+**Company:** Intel
+
+**Socket:** FCBGA1667
+
+**Supported Chipsets:** Broadwell-DE
+
+**Max RAM Speed:** DDR3/LPDDR3
+
+**Memory Type:** 
+
+**CPU Mark:** 9223
+
+**CPU Value:** N/A
+
+**Thread Mark:** 835
+
+**Thread Value:** N/A
+
+**TDP:** 65
+
+**Power Performance:** 141.9
+
+**Cores:** 16
+"
+I need a CPU of ARM - low power range,"**CPU Name:** ARM X-Gene 32 Core 3300 MHz
+
+**Company:** ARM
+
+**Socket:** unknown
+
+**Supported Chipsets:** unknown
+
+**Max RAM Speed:** unknown (ARM processors typically support up to DDR3-1333 or DDR4-2133)
+
+**Memory Type:** unknown (likely DDR3 or DDR4, but specific type and speed not specified)
+
+**CPU Mark:** 8684
+
+**CPU Value:** N/A
+
+**Thread Mark:** 583
+
+**Thread Value:** N/A
+
+**TDP:** unknown (Thermal Design Power, typically measured in Watts)
+
+**Power Performance:** unknown (Power Efficiency, typically measured in Watts per GHz or Watts per core)
+
+**Cores:** 32
+"
+I need a CPU of AMD - low power range,"**CPU Name:** AMD Opteron 6386 SE
+
+**Company:** AMD
+
+**Socket:** Socket G34
+
+**Supported Chipsets:** AMD SR5650M1FVB42H
+
+**Max RAM Speed:** DDR3-1600
+
+**Memory Type:** DDR3
+
+**CPU Mark:** 8320
+
+**CPU Value:** N/A
+
+**Thread Mark:** 1340
+
+**Thread Value:** N/A
+
+**TDP:** 140
+
+**Power Performance:** 59.43
+
+**Cores:** 16
+"
+I need a CPU of AMD - low power range,"**CPU Name:** AMD Opteron 6287 SE
+
+**Company:** AMD
+
+**Socket:** G34
+
+**Supported Chipsets:** Aspeed ASMB4-I3/C33
+
+**Max RAM Speed:** 1866 MHz
+
+**Memory Type:** DDR3
+
+**CPU Mark:** 6925
+
+**CPU Value:** N/A
+
+**Thread Mark:** 1091
+
+**Thread Value:** N/A
+
+**TDP:** 105W
+
+**Power Performance:** 145 W/DMIPS/W
+
+**Cores:** 16
+"
+I need a CPU of AMD - low power range,"**CPU Name:** AMD Opteron 6282 SE
+
+**Company:** AMD
+
+**Socket:** unknown
+
+**Supported Chipsets:** 
+
+**Max RAM Speed:** 1866 MHz
+
+**Memory Type:** DDR3
+
+**CPU Mark:** 6385
+
+**CPU Value:** N/A
+
+**Thread Mark:** 953
+
+**Thread Value:** N/A
+
+**TDP:** 140
+
+**Power Performance:** 45.61
+
+**Cores:** 16
+"
+I need a CPU of ARM - low power range,"**CPU Name:** ARM Cortex-A72 16 Core 0 MHz
+
+**Company:** ARM
+
+**Socket:** unknown
+
+**Supported Chipsets:** ?
+
+**Max RAM Speed:** DDR4-1866/2400/3200
+
+**Memory Type:** LPDDR3/LPDDR4
+
+**CPU Mark:** 5435
+
+**CPU Value:** N/A
+
+**Thread Mark:** 600
+
+**Thread Value:** N/A
+
+**TDP:** ?
+
+**Power Performance:** ?
+
+**Cores:** 16
+"
+I need a CPU of Intel - low power range,"**CPU Name:** Intel Atom C3958 @ 2.00GHz
+
+**Company:** Intel
+
+**Socket:** FCBGA1310
+
+**Supported Chipsets:** Broadwell-DE
+
+**Max RAM Speed:** 1866 MHz
+
+**Memory Type:** DDR3
+
+**CPU Mark:** 4281
+
+**CPU Value:** N/A
+
+**Thread Mark:** 514
+
+**Thread Value:** N/A
+
+**TDP:** 31
+
+**Power Performance:** 138.1
+
+**Cores:** 16
+"

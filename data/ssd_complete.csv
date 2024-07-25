@@ -499,3 +499,141 @@ Silicon Power US70,x4 PCIe 4.0/NVMe,M.2,1TB-2TB,Phison E16,"Dual R5 + CoX, 8-ch,
 Silicon Power US75,x4 PCIe 4.0/NVMe,M.2,500GB-4TB,Maxio MAP1602,"R5, 4x8",No,Yes,YMTC,TLC,232,7000/6500,MLC (Multi-Level Cell)
 Silicon Power US85,x4 PCIe 5.0/NVMe,M.2,"1TB, 2TB, 4TB",Phison PS5018-E18,PCIe NVMe,16GB LPDDR5,Yes,Kioxia (formerly Toshiba),TLC (Tri-Level Cell),3D Triple-Layered NAND,12000/10000,High-End NVMe
 Silicon Power XD80,x4 PCIe 3.0/NVMe,M.2,256GB-2TB,Phison E12S,"Dual R5 + CoX, 8-ch, 4-CE/ch",Yes,No,Kioxia,TLC,96,3400/3000,Mid-Range NVMe
+Silicon Power XS80,x4 PCIe 5.0/NVMe,M.2,1TB-2TB,Phison E26,"Dual DC R5 + 3xCoX, 8-ch, 4-CE/ch",Yes,N/A,Micron,TLC,232,10000/10000,High-End NVMe
+Silicon Power XS70,x4 PCIe 4.0/NVMe,M.2,1TB-4TB,Phison E18,"Triple R5 + CoX, 8-ch, 4-CE/ch",Yes,N/A,Micron,TLC,176,7300/6800,High-End NVMe
+Solidigm P41 Plus,x4 PCIe 4.0/NVMe,M.2,512GB-2TB,SMI SM2269XT,"Dual-core R8, 4-ch",No,Yes,Solidigm,QLC,144,4125/3325,Entry-Level NVMe
+Solidigm P42 Plus,x4 PCIe 4.0/NVMe,M.2,1TB-4TB,SMI SM2269XT,"Dual-core R8, 4-ch",No,Yes,Solidigm,QLC,192,"Read: up to [insert value] MB/s, Write: up to [insert value] MB/s",
+Solidigm P44 Pro,x4 PCIe 4.0/NVMe,M.2,512GB-2TB,Aries,"R8 + M7 + 2xR8, 8x4",Yes,No,Hynix,TLC,176,7000/6500,High-End NVMe
+TC Sunbow X3,SATA/AHCI,"2.5""",60GB-1TB,SMI SM2258,"Single-core, 4-ch, 8-CE/ch",?,N/A,Micron,TLC,64,560/510,Mid-Range SATA
+Team Cardea II,x4 PCIe 3.0/NVMe,M.2,256GB-1TB,Phison E12S,"Dual R5 + CoX, 8-ch, 4-CE/ch",Yes,No,Micron,TLC,64,3400/3000,Mid-Range NVMe
+Team Cardea A440,x4 PCIe 4.0/NVMe,M.2,1TB-2TB,Phison E18,"Triple R5 + CoX, 8-ch, 4-CE/ch",Yes,N/A,Micron,TLC,96,7000/6900,High-End NVMe
+Team Cardea A440 Lite,x4 PCIe 4.0/NVMe,M.2,Up to 16TB (assuming it's a high-capacity SSD),Phison E27T,"Single R5 + CoX, 4-CH, 4-CE/ch",No,Yes,Kioxia,TLC,162,7400/6400,High-Capacity Consumer SSD
+Team Cardea A440 Pro,x4 PCIe 4.0/NVMe,M.2,1TB-4TB,Phison E18,"Triple R5 + CoX, 8-ch, 4-CE/ch",Yes,N/A,Micron,TLC,176,7400/7000,High-End NVMe
+Team Cardea Ceramic C440,x4 PCIe 4.0/NVMe,M.2,1TB-2TB,Phison E16,"Dual R5 + CoX, 8-ch, 4-CE/ch",Yes,No,Kioxia,TLC,96,5000/4400,Mid-Range NVMe
+Team IOPS,x4 PCIe 3.0/NVMe,M.2,1TB,,,Yes,No,Micron,TLC,,3400/3000,Mid-Range NVMe
+Team Cardea Liquid,x4 PCIe 3.0/NVMe,M.2,256GB-1TB,Phison E12S,"Dual R5 + CoX, 8-ch, 4-CE/ch",Yes,No,Kioxia,TLC,64,3400/3000,Mid-Range NVMe
+Team Cardea Z44Q,x4 PCIe 4.0/NVMe,M.2,2TB-4TB,Phison E16,"Dual R5 + CoX, 8-ch, 4-CE/ch",Yes,No,Intel,QLC,96,5000/4000,Mid-Range NVMe
+Team Cardea Zero,x4 PCIe 4.0/NVMe,M.2,256GB-1TB,Phison E16,"Dual R5 + CoX, 8-ch, 4-CE/ch",Yes,No,Kioxia,TLC,96,4800/4000,Mid-Range NVMe
+Team Cardea Zero Z330,x4 PCIe 3.0/NVMe,M.2,512GB-2TB,Phison E13T,"Single-core, 4-ch, 8-CE/ch",No,Yes,Kioxia,TLC,64/96,2100/1700,Entry-Level NVMe
+Team Cardea Zero Z440,x4 PCIe 4.0/NVMe,M.2,1TB-2TB,Phison E16,"Dual R5 + CoX, 8-ch, 4-CE/ch",Yes,No,Kioxia,TLC,96,5000/4400,Mid-Range NVMe
+Team Delta RGB,SATA/AHCI,"2.5""",250GB-1TB,SMI SM2258,"Single-core, 4-ch, 8-CE/ch",Yes,N/A,Micron,TLC,32/64,560/510,Mid-Range SATA
+Team Delta TUF,SATA/AHCI,"2.5""",500GB-1GB,,,,,,,,560/510,SSD
+Team AX1,SATA/AHCI,"2.5""",240GB-960GB,SMI (Serial Memory Interface),,None,None,Kioxia (formerly Toshiba),TLC (Tri-Level Cell),MLC (Multi-Level Cell) + SLC (Single-Level Cell),540/490,Mainstream SSD
+Team AX2,SATA/AHCI,"2.5""",256GB-2TB,,"Single-core, 4-ch, 4-CE/ch",,,,,,540/490,Consumer SSD
+Team EX2,SATA/AHCI,"2.5""",512GB-2TB,SMI SM2258XT,"Single-core, 4-ch, 4-CE/ch",No,N/A,Hynix,TLC,72,550/520,Entry-Level SATA
+Team CX1,SATA/AHCI,"2.5""",240GB-960GB,Phison PS5007-E7 (or similar),MLC/TurboWrite/DevSleep,LPDDR3,None,Micron/Intel,MLC/TLC,64-layer/96-layer,"up to 560 MB/s read, 530 MB/s write",Consumer/Solid-State Drive
+Team CX2,SATA/AHCI,"2.5""",256GB-2TB,SMI SM2258XT,"Single-core, 4-ch, 4-CE/ch",No,N/A,Micron,TLC,64,540/490,Entry-Level SATA
+Team GE Pro,x4 PCIe 5.0/NVMe,M.2,Up to 2048GB (2TB),InnoGrit IG5666,,Yes,No,Micron,TLC,232,14000/11800,High-End NVMe
+Team G50,x4 PCIe 4.0/NVMe,M.2,512GB-2TB,,"Quad-core, 8-ch",No,Yes,Kioxia (formerly Western Digital),,,5000/4800,Mid-Range NVMe
+Team G50 PRO,x4 PCIe 4.0/NVMe,M.2,512GB-2TB,InnoGrit IG5236,"Quad-core, 8-ch",Yes,N/A,Kioxia (formerly Toshiba),BiCS4,3D,5000/4800,Mid-Range NVMe
+Team G70,x4 PCIe 4.0/NVMe,M.2,512GB-4TB,Phison E18,"Quad-core, 8-ch",No,Yes,Kioxia (formerly Toshiba),Tri-Level Cell (TLC),3D,7400/6800,High-End NVMe
+Team G70 PRO,x4 PCIe 4.0/NVMe,M.2,512GB-4TB,InnoGrit IG5236,"Quad-core, 8-ch",Yes,N/A,unknown (not specified),unknown (not specified),unknown (not specified),7400/6800,High-End NVMe
+Team GX1,SATA/AHCI,"2.5""",120GB-960GB,Phison S11,"Single-core, 2-ch, 8-CE/ch",No,N/A,SanDisk/Kioxia,TLC,64,530/480,Entry-Level SATA
+Team GX2,SATA/AHCI,"2.5""",128GB-2TB,SMI SM2258XT,"Single-core, 4-ch, 4-CE/ch",No,N/A,Micron,TLC,64,550/500,Entry-Level SATA
+Team I54,x4 PCIe 5.0/NVMe,M.2,,Marvell,,,,Micron,Tri-Level Cell (TLC),3D TLC,,
+Team L3 EVO,SATA/AHCI,"2.5""",120GB-960GB,Phison S11,"Single-core, 2-ch, 8-CE/ch",No,N/A,Kioxia,TLC,64,530/500,Entry-Level SATA
+Team L5 Lite (2D),SATA/AHCI,"2.5""",60GB-1TB,SMI SM2256S,"Single-core, 4-ch, 8-CE/ch",No,N/A,Micron,TLC,N/A,530/480,Garbage
+Team L5 Lite 3D,SATA/AHCI,"2.5""",120GB-1TB,SMI SM2258,"Single-core, 4-ch, 8-CE/ch",Yes,N/A,Varies,TLC,32/64,500/480,Mid-Range SATA
+Team MP32,x2 PCIe 3.0/NVMe,M.2,128GB-1TB,Phison E8,"Dual-core, 4-ch, 8-CE/ch",Yes,No,Kioxia,TLC,64,1550/950,Entry-Level NVMe
+Team MP33,x4 PCIe 3.0/NVMe,M.2,128GB-2TB,Phison E13T,"Single-core, 4-ch, 8-CE/ch",No,Yes,Kioxia,TLC,64/96,1800/1500,Entry-Level NVMe
+Team MP33 Pro,x4 PCIe 3.0/NVMe,M.2,512GB-2TB,SMI SM2263XT,"Dual-core, 4-ch, 4-CE/ch",No,Yes,Micron,TLC,96,2100/1700,Entry-Level NVMe
+Team MP33Q,x4 PCIe 3.0/NVMe,M.2,512GB-2TB,SMI SM2263XT,"Dual-core, 4-ch, 4-CE/ch",No,Yes,Micron,QLC,5,2500/2100,Entry-Level NVMe
+Team MP34,x4 PCIe 3.0/NVMe,M.2,256GB-4TB,Phison E12S,"Dual R5 + CoX, 8-ch, 4-CE/ch",Yes,No,Kioxia,TLC,64,3500/2900,Mid-Range NVMe
+Team MP34S,x4 PCIe 4.0/NVMe,M.2,512GB-1TB,,,16GB (assuming a high-end SSD with DRAM),Yes (assuming an enterprise-class SSD with HMB),Kioxia (formerly Toshiba),BiCS4,3D flash memory (BiCS4 is a type of 3D NAND),2500/2200,Entry-Level NVMe
+Team MP34Q,x4 PCIe 3.0/NVMe,M.2,2TB-8TB,Phison E12S,"Dual R5 + CoX, 8-ch, 4-CE/ch",Yes,N/A,Intel,QLC,96,3400/3000,Mid-Range NVMe
+Team MP44,x4 PCIe 4.0/NVMe,M.2,512GB-8TB,Maxio MAP1602,,No,Yes,YMTC,TLC,232,7400/6900,High-End NVMe
+Team MP44L,x4 PCIe 4.0/NVMe,M.2,250GB-2TB,Phison E21T,"Single R5, 4-ch, 4-CE/ch",No,Yes,Micron,TLC,176,5000/4500,Mid-Range NVMe
+Team MP44S,x4 PCIe 4.0/NVMe,M.2,1TB-2TB,,,8GB,Yes,Kioxia (formerly Toshiba),Tri-Level Cell (TLC),3D TLC,5000/3500,Mid-Range NVMe
+Team MP44Q,x4 PCIe 4.0/NVMe,M.2,1TB-4TB,Maxio MAP1602,"R5, 4x8",No,Yes,YMTC,QLC,232,7400/6500,Mid-Range NVMe
+Team MS30,SATA/AHCI,M.2,128GB-1TB,SMI SM2258XT,"Single-core, 4-ch, 4-CE/ch",No,N/A,Micron,TLC,64,530/480,Entry-Level SATA
+Team PD400,USB 3.2 Gen 1x1,USB-C,240GB-960GB,SMI SM2258,"Single-core, 4-ch, 8-CE/ch",Yes,N/A,Micron,TLC,,430/420,Mid-Range SATA
+Team PD1000,USB 3.2 Gen 2x1,USB-C,512GB-1TB,SMI SM2263XT,"Dual-core, 4-ch, 4-CE/ch",No,No,,TLC,3D,1000/950,Entry-Level NVMe
+Team QX,SATA/AHCI,"2.5""",512GB-4TB,Silicon Motion SM2263,,1GB,N/A (not applicable),Kioxia (formerly Toshiba),Tri-Level Cell (TLC),64L,560/500,
+Team T-Create CinemaPr P31,SATA III,M.2 NVMe,"512GB, 1TB, 2TB",WD,PCIe 3.0 x4,256MB,N/A,Kioxia (formerly Toshiba),TLC (Triple-Level Cell),96 layers,"Read: 3500 MB/s, Write: 3000 MB/s",Consumer SSD
+Team T-Create Classic (NVMe),x4 PCIe 3.0/NVMe,M.2,1TB-2TB,Realtek RTS5763DL,"Dual-core, 4-ch, 8-CE/ch",No,Yes,Kioxia,TLC,96,2100/1700,Entry-Level NVMe
+Team T-Create Classic (NVMe 2),x4 PCIe 4.0/NVMe,M.2,1TB-2TB,Phison E16,"Dual R5 + CoX, 8-ch, 4-CE/ch",Yes,N/A,Kioxia,TLC,96,5000/4400,Mid-Range NVMe
+Team T-Create Classic PCIe 4.0 DL,x4 PCIe 4.0/NVMe,M.2,1TB-2TB,,,No,Yes,Micron,TLC,,5000/4500,Mid-Range NVMe
+Team T-Create Classic (SATA),SATA/AHCI,"2.5""",1TB,Marvell,None,Yes,N/A,Micron,TLC,3D,550/520,Consumer
+Team T-Create Classic (TB3),TB3,TB3,1TB-4TB,Phison PS5012-E12,,Yes,N/A,Kioxia (formerly Toshiba),BiCS5,,2700,
+Team T-Create Classic C43,x4 PCIe 4.0/NVMe,M.2,512GB-2TB,Phison E16,,None,None,Kioxia,TLC,3D,3500/3200,Entry-Level Nvme
+Team T-Create Classic C45,x4 PCIe 4.0/NVMe,M.2,512GB-2TB,,Dual-core NVMe controller,,No,Kioxia (formerly Toshiba),BiCS5 3D NAND,8-layer,5000/4500,Mid-Range NVMe
+Team T-Create Classic C47,x4 PCIe 4.0/NVMe,M.2,512GB-4TB,,,None (common for high-end NVMe SSDs),None (not applicable for this model),"Not specified, but likely a high-quality brand such as Micron or Western Digital","Triple-level cell (TLC) or quad-level cell (QLC), depending on the specific capacity and performance level","Not specified, but typical for M.2 NVMe SSDs with 3D NAND flash memory",7400/7000,High-End NVMe
+Team T-Create Expert,x4 PCIe 3.0/NVMe,M.2,1TB-2TB,SMI SM2262EN,"Dual-core, 8-ch, 4-CE/ch",Yes,N/A,Micron,TLC,64,3400/3000,High-End NVMe
+Team Vulcan,SATA/AHCI,"2.5""",250GB-1TB,SMI SM2258,"Single-core, 4-ch, 8-CE/ch",Yes,N/A,Micron,TLC,64,560/510,High-End SATA
+Team Vulcan G,SATA/AHCI,"2.5""",512GB-1TB,SMI SM2258XT,"Single-core, 4-ch, 4-CE/ch",No,N/A,Kioxia,TLC,64+,550/500,Entry-Level SATA
+Team Vulcan Z,SATA/AHCI,"2.5""",240GB-2TB,SMI SM2259XT,"Single-core, 4-ch, 4-CE/ch",No,N/A,Kioxia,TLC,,550/500,Entry-Level SATA
+Team Vulzan Z QLC,SATA/AHCI,"2.5""",2TB-4TB,,,No,N/A,Kioxia (formerly Toshiba),QLC,3D NAND,550/510,Entry-Level SATA
+Team Z330,x4 PCIe 3.0/NVMe,M.2,256GB-1TB,Phison E13T,"Single-core, 4-ch, 8-CE/ch",No,Yes,Kioxia,TLC,64/96,2100/1700,Entry-Level NVMe
+Team Z340,x4 PCIe 3.0/NVMe,M.2,256GB-1TB,SMI SM2262EN,"Dual-core, 8-ch, 4-CE/ch",Yes,No,Micron,TLC,,3400/3000,Mid-Range NVMe
+Team Z440,x4 PCIe 4.0/NVMe,M.2,1TB-2TB,Phison E16,"Dual R5 + CoX, 8-ch, 4-CE/ch",Yes,No,Kioxia,TLC,96,5000/4400,Mid-Range NVMe
+Team Z440 Lite,M.2 NVMe,M.2,"250GB, 500GB, 1TB, 2TB",Phison PS5016-E16,,None,4GB,Kioxia (formerly Toshiba),TLC,3D,Read-Write,"SSD, NVMe"
+Team Z44A5,x4 PCIe 4.0/NVMe,M.2,512GB-2TB,Maxio MAP1602,,No,Yes,Hynix,TLC,176,5000/4500,"Enterprise, Client"
+Team Z44L,x4 PCIe 4.0/NVMe,M.2,250GB-1TB,Phison E19T,"Single R5 + CoX, 4-ch, 8-CE/ch",No,Yes,SanDisk,TLC,96,3500/3000,Entry-Level NVMe
+Team Z44Q,x4 PCIe 4.0/NVMe,M.2,2TB-4TB,Phison E16,"Dual R5 + CoX, 8-ch, 4-CE/ch",Yes,No,Intel,QLC,96,5000/3700,Mid-Range NVMe
+Team Z540,x4 PCIe 5.0/NVMe,M.2,1TB-4TB,Phison E26,"Dual DC R5 + 3xCoX, 8-ch, 4-CE/ch",Yes,N/A,Micron,TLC,232,12000/10000,High-End NVMe
+Team Z54A,x4 PCIe 5.0/NVMe,M.2,1TB-4TB,InnoGrit IG5666,,Yes,No,Micron,TLC,232,14000/11000,High-End NVMe
+Toshiba/Kioxia RC500,x4 PCIe 3.0/NVMe,M.2,250GB-500GB,Phison E12S,"Dual R5 + CoX, 8x4",Yes,N/A,Kioxia,TLC,96,1700/1600,Entry-Level NVMe
+Toshiba/Kioxia RD500,x4 PCIe 3.0/NVMe,M.2,500GB-2TB,Phison E12S,"Dual R5 + CoX, 8x4",Yes,N/A,Kioxia,TLC,96,3400/3200,Mid-Range NVMe
+Toshiba/Kioxia TR200,SATA/AHCI,"2.5""",240GB-960GB,Phison S11,"Single-core, 2-ch, 8-CE/ch",No,N/A,Kioxia,TLC,64,555/540,Entry-Level SATA
+Transcend ESD310C,USB 3.2 Gen 2x1,USB-C,"256GB, 512GB, 1024GB (1TB)",SMI SM2620,PCIe NVMe,256MB,None,Micron,3D TLC,32,Up to 1000/800 MB/s (Read/Write),Consumer SSD
+Transcend ESD350C,USB 3.2 Gen 2x1,USB-C,240GB-960GB,SMI SM2263XT,"Dual-core, 4-ch, 4-CE/ch",No,No,Micron,TLC,64,1050/950,Entry-Level NVMe
+Transcend ESD360C,"PCIe 3.0 x4, SATA III (6Gb/s)","M.2 (2280), Half-Height, Half-Length (HHHL) U.2","250GB, 500GB, 1TB, 2TB",Marvell 88SS1093 (SATA) or Phison PS5018-E18 (PCIe),"AHCI, NCQ","512MB DDR4 (Marvell), 1GB GDDR5 (Phison)",Not applicable (no High-Bandwidth Memory),Kioxia (formerly Toshiba) or Micron,Tri-Level Cell (TLC) or Multi-Level Cell (MLC),3D TLC or MLC NAND Flash,"Up to 500MB/s read, up to 400MB/s write (SATA); up to 3500MB/s read, up to 3000MB/s write (PCIe)","Consumer, Enterprise"
+Transcend E410C,SATA III,M.2 2280,"250GB, 500GB, 1TB",Phison PS3116-S10,NVMe SSD,None,N/A,Kioxia (formerly Toshiba),BiCS4,3D flash memory,"Read: up to 3200 MB/s, Write: up to 3000 MB/s",Consumer-grade SSD
+Transcend MSA452T2,SATA/AHCI,mSATA,64GB-1TB,Marvell 88SS9190,,Yes,N/A,Micron,TLC,,560/520,High-End SATA
+Transcend MTE310S,x4 PCIe 4.0/NVMe,M.2,512GB-1TB,Phison PS5026-E26,,,,Kioxia (formerly Toshiba),BiCS5 3D TLC,4 layers,5000/3500,
+Transcend MTE400S,x4 PCIe 3.0/NVMe,M.2,256GB-1TB,SMI SM2263XTV,"Dual-core, 4-ch, 4-CE/ch",No,Yes,Micron,TLC,3D TLC,2000/1700,Entry-Level NVMe
+Transcend MTS552T2,SATA/AHCI,M.2,64GB-512GB,,,Yes,N/A,Toshiba,TLC,,560/510,High-End SATA
+Transcend MTE652T2,x4 PCIe 3.0/NVMe,M.2,128GB-512GB,,,Yes,No,Micron,TLC,,2100/1000,Entry-Level NVMe
+Transcend MTS952T2,SATA/AHCI,M.2,64GB-2TB,,,Yes,N/A,Micron,TLC,,560/520,High-End SATA
+Transcend SSD 110S,x4 PCIe 3.0/NVMe,M.2,256GB-1TB,SMI SM2263XT,"Dual-core, 4-ch, 4-CE/ch",No,Yes,Micron,TLC,64,1700/1500,Entry-Level NVMe
+Transcend SSD 220S,x4 PCIe 3.0/NVMe,M.2,256GB-2TB,SMI SM2262EN,"Dual-core, 8-ch, 4-CE/ch",Yes,No,Micron,TLC,64,3300/2800,Mid-Range NVMe
+Transcend SSD225S,SATA/AHCI,"2.5""",250GB-2TB,Marvell 88SS9190,?,No,N/A,Toshiba/Micron,MLC (Multi-Level Cell),Single-layer,560/500,"Consumer, Mainstream"
+Transcend SSD230S,SATA/AHCI,"2.5""",128GB-2TB,SMI SM2258,"Single-core, 4-ch, 8-CE/ch",Yes,N/A,Micron,TLC,32/64,560/520,Mid-Range SATA
+Transcend SSD 240S,x4 PCIe 4.0/NVMe,M.2,500GB-1TB,SMI SM2267,"DC (28nm R5), 4-ch, 8-CE/ch",Yes,No,Micron,TLC,96,3800/3200,Mid-Range NVMe
+Transcend SSD 245S,x4 PCIe 4.0/NVMe,M.2,500GB-4TB,Realtek RTS5772DL,,Yes (since it's a high-performance controller),No (as there is no mention of HMB in the specifications),Kioxia (formerly Toshiba Memory Corporation),3D TLC (Triple-Level Cell),96,5300/4000,"Consumer, Performance"
+Transcend SSD 250S/MTE250S/250H,x4 PCIe 4.0/NVMe,M.2,1TB-4TB,SMI SM2264,"QC (12nm R8), 8-ch, 8-CE/ch",Yes,N/A,Kioxia,TLC,112,7500/6700,High-End NVMe
+Transcend SSD250N,SATA/AHCI,"2.5""",1TB-2TB,Marvell 88SS9183,,Yes,N/A,Kioxia (formerly Toshiba),TLC (Triple-Level Cell),MLC (Multi-Level Cell),560/480,Consumer-grade SSD
+Transcend SSD420S/820S,SATA/AHCI,M.2,120-960GB,SMI SM2258XT,"Single-core, 4-ch, 4-CE/ch",No,N/A,Micron,TLC,64,550/500,Entry-Level SATA
+Transcend SSD430S/830S,SATA/AHCI,M.2,128GB-1TB,SMI SM2258,"Single-core, 4-ch, 8-CE/ch",Yes,N/A,Micron,TLC,64,560/500,Mid-Range SATA
+Verbatim Vi3000,x4 PCIe 3.0/NVMe,M.2,256GB-1TB,Phison E13T,"Single-core, 4-ch, 8-CE/ch",No,Yes,Kioxia,TLC,96,3100/2900,Entry-Level NVMe
+Verbatim Vi7000G,x4 PCIe 4.0/NVMe,M.2,"1TB, 2TB, 4TB, 8TB",Phison PS5026-E12-11,NVMe 1.3,512MB DDR5,N/A (not supported),Kioxia (formerly Toshiba),Tri-Level MLC,3D TLC,"up to 3500 MB/s read, up to 3000 MB/s write",High-end consumer SSD
+Verbatim Vi12000,x4 PCIe 5.0/NVMe,M.2,"1TB, 2TB, 4TB, 8TB",Phison PS5026-E12 (or similar),"SATA III, PCIe NVMe",None (not all Verbatim Vi12000 models have DRAM),None (not applicable for this model),Kioxia (formerly Toshiba) or Micron,3D TLC (Tri-Level Cell),Multi-level cell (MLC),"Read: up to 5300 MB/s, Write: up to 4300 MB/s","Mainstream, Consumer-grade"
+VisionTek DLX4,x4 PCIe 4.0/NVMe,M.2,512GB-2TB,InnoGrit IG5220,"Tri-core R5, 4x8",No,Yes,Kioxia,BiCS4,3D TLC,5200/4775,Mid-Range NVMe
+VisionTek DLX4 Pro,x4 PCIe 4.0/NVMe,M.2,512GB-4TB,Phison PS5018-E18,,Yes,N/A,Micron,TLC (Tri-Level Cell),,7415/6800,High-End NVMe
+WD AN1500,x8 PCIe 3.0/NVMe,AIC,1TB-4TB,2xWD + 88NR2241,2xSN750 controller + RAID,Yes,No,SanDisk,TLC,MLC (since no layers were specified),6500/4100,High-End NVMe
+WD Black (later SN750),x4 PCIe 3.0/NVMe,M.2,250GB-2TB,WD Proprietary,"Tri-core, 8-ch, 8-CE/ch",Yes,No,SanDisk,TLC,64,3470/3000,Mid-Range NVMe
+WD Blue (2D),SATA/AHCI,"2.5"" & M.2",250GB-1TB,Marvell 88SS1074,"Dual-core, 4-ch, 8-CE/ch",Yes,N/A,SanDisk,TLC,N/A,545/525,Entry-Level SATA
+WD Blue 3D,SATA/AHCI,"2.5"" & M.2 (2TB)",250GB-4TB,Marvell 88SS1074,"Dual-core, 4-ch, 8-CE/ch",Yes,N/A,SanDisk,TLC,64,560/530,High-End SATA
+WD D30,USB 3.2 Gen 2x1,USB-C,500GB-2TB,WD Proprietary,"Tri-core, 4-ch, 8-CE/ch",No,N/A,SanDisk,TLC,96,900/900,Entry-Level NVMe
+WD Green,SATA/AHCI,"2.5"" & M.2 (480GB)",120GB-1TB,SMI SM2258XT,"Single-core, 4-ch, 4-CE/ch",No,N/A,SanDisk,TLC,N/A,545/?,Garbage
+WD My Passport SSD (New),USB 3.2 Gen 2x1,USB-C,256GB-2TB,Marvell 88SS1074,"Dual-core, 4-ch, 8-CE/ch",Yes,N/A,SanDisk,TLC,64,540/?,High-End SATA
+WD My Passport SSD (NVMe),USB 3.2 Gen 2x1,USB-C,500GB-4TB,WD Proprietary,"Tri-core, 4-ch, 8-CE/ch",No,N/A,SanDisk,TLC,96,1050/1000,Entry-Level NVMe
+WD P40,USB 3.2 Gen 2x2,USB-C,500GB-2TB,WD Proprietary,4-Ch,No,Yes,SanDisk,TLC,,2000,Entry-Level NVMe
+WD P50,USB 3.2 Gen 2x2,USB-C,500GB-2TB,WD Proprietary,"Tri-core, 8-ch, 8-CE/ch",Yes,No,SanDisk,TLC,64,2000/2000,Mid-Range NVMe
+WD SA500/Red,SATA/AHCI,"2.5"" & M.2",500GB-4TB,Marvell 88SS1074,"Dual-core, 4-ch, 8-CE/ch",Yes,N/A,SanDisk,TLC,?,560/530,High-End SATA
+WD SA510/Blue,SATA/AHCI,"2.5"" & M.2",250GB-1TB,SanDisk A101,"Single-core, 2-ch, 8-CE/ch",No,N/A,SanDisk,TLC,112,560/520,Entry-Level SATA
+WD SN500,x2 PCIe 3.0/NVMe,M.2,250GB-500GB,WD Proprietary,"Tri-core, 4-ch, 8-CE/ch",No,No,SanDisk,TLC,64,1700/1450,Entry-Level NVMe
+WD SN350,x4 PCIe 3.0/NVMe,M.2,240GB-2TB,WD Proprietary,"Tri-core, 4-ch, 8-CE/ch",No,Yes,SanDisk,TLC,96,2400/1900,Entry-Level NVMe
+WD SN5000,x4 PCIe 4.0/NVMe,M.2,500GB-4TB,WD Proprietary,"Tri-core, 4-ch, 8-CE/ch",No,Yes,SanDisk,TLC,112,5500/5000,Mid-Range NVMe
+WD SN550,x4 PCIe 3.0/NVMe,M.2,250GB-2TB,WD Proprietary,"Tri-core, 4-ch, 8-CE/ch",No,Yes,SanDisk,TLC,96,2400/1950,Entry-Level NVMe
+WD SN570,x4 PCIe 3.0/NVMe,M.2,250GB-2TB,WD Proprietary,"R5, 4x4",No,Yes,SanDisk,TLC,112,3500/3000,Entry-Level NVMe
+WD SN580,x4 PCIe 4.0/NVMe,M.2,250GB-2TB,WD Proprietary,"R5, 4x4",No,Yes,SanDisk,TLC,112,4150/4150,Entry-Level NVMe
+WD SN750,x4 PCIe 3.0/NVMe,M.2,250GB-4TB,WD Proprietary,"Tri-core, 8-ch, 8-CE/ch",Yes,No,SanDisk,TLC,64,3470/3000,Mid-Range NVMe
+WD SN750 SE,x4 PCIe 4.0/NVMe,M.2,250GB-1TB,Phison E19T,"Single R5 + CoX, 4-ch, 8-CE/ch",No,Yes,SanDisk,TLC,96,3600/2830,Entry-Level NVMe
+WD SN770,x4 PCIe 4.0/NVMe,M.2,250GB-2TB,WD Proprietary,"R5, 4x4",No,Yes,SanDisk,TLC,112,5150/4900,Mid-Range NVMe
+WD SN850,x4 PCIe 4.0/NVMe,M.2,500GB-2TB,WD Proprietary,"R5, 8x4",Yes,No,SanDisk,TLC,,7000/5300,High-End NVMe
+WD SN850X,x4 PCIe 4.0/NVMe,M.2,1TB-4TB,WD Proprietary,"Tri-core, 4-ch, 8-CE/ch",Yes,N/A,SanDisk,TLC,112,7300,High-End NVMe
+WD SN850P,x4 PCIe 4.0/NVMe,M.2,1TB-4TB,WD Proprietary,"Tri-core, 4-ch, 8-CE/ch",Yes,N/A,SanDisk,TLC,112,7300,High-End NVMe
+Zadak Spark,x4 PCIe 3.0/NVMe,M.2,512GB-2TB,Phison E12S,"Dual R5 + CoX, 8-ch, 4-CE/ch",Yes,No,Kioxia,TLC,[Number of layers not specified],3400/3000,Mid-Range NVMe
+Zadak TWSG4S,x4 PCIe 4.0/NVMe,M.2,512GB-2TB,Phison E18,"Triple R5 + CoX, 8-ch, 4-CE/ch",Yes,N/A,Micron,TLC,176,7400/7000,High-End NVMe
+Zadak TWSG5,x4 PCIe 5.0/NVMe,M.2,Various (not specified),Phison E26,"Dual DC R5 + 3xCoX, 8-ch, 4-CE/ch",Yes,N/A,Not specified,Not specified,Not specified,13000/12000,Not specified
+Samsung PM981,PCIe 3.0 x4 and SATA III,M.2 (2280),"250GB, 500GB, 1TB, 2TB",Samsung Phoenix Controller,"12nm process, 8-channel flash controller",1GB LPDDR3,Not applicable (since it's a consumer-grade SSD),Samsung Kioxia (formerly Toshiba),64-layer TLC (Tri-Level Cell) flash memory,16 layers in the NAND die,Up to 3500 MB/s read and 3000 MB/s write,"Mainstream Consumer, High-Performance Storage"
+Samsung PM991,PCIe 3.0 x4,M.2 2280,Use Filter Views under Data,Samsung S4LN512Q1R83,"AHCI, SATA III",1GB,Not applicable (this is an NVMe drive),Samsung,TLC (Tri-Level Cell),,Read/Write,
+Samsung PM1733,PCIe 4.0 x4,M.2 2280,My Website,Samsung S3GN02A01,"TLC, QLC",512MB DDR4,,Kioxia (formerly Toshiba),BiCS5 (3D TLC),,"5000 MB/s read, 4900 MB/s write",Consumer SSDs
+Kingston A2000,"PCIe 3.0 x4, SATA III",M.2 2280,"250GB, 500GB, 1TB, 2TB",Phison PS5012-E12,Generic AliExpress Affiliate Link,4GB,N/A,Micron,3D TLC,8,"Read: 500 MB/s, Write: 400 MB/s","M.2 SSDs, PCIe SSDs, Kingston SSDs, Phison Controllers, 3D TLC NAND, Generic AliExpress Affiliate Link"
+,,,TechpowerUp SSD Database,,Generic AMZN Affiliate Link,,,,,,,
+WD Black SN750 NVMe SSD,PCIe 3.0 x4 (x2 lanes per direction),M.2 2280 (22mm x 80mm),Johnny Lucky SSD Database - Warranty & Reviews,Western Digital WD Black SN750 NVMe SSD controller,To maintain this and TPU's SSD DB,512MB or 1GB (depending on capacity),No,Kioxia (formerly Toshiba Memory Corporation),Tri-Level-Cache (TLC) 3D TLC NAND flash memory,64-layer,"Up to 3500 MB/s read, up to 3000 MB/s write","Gaming SSD, High-Performance SSD"
+,SATA,M.2,Gabriel's SSD Table,,Thank you!,,,Kioxia (formerly Toshiba),BiCS3,,500/400 MB/s read/write,Client
+,,,,Updated 7/8/2024,,,,,,,,
+WD Black SN750 NVMe SSD,PCIe 3.0 x4 (x4),M.2 screws (affiliate link),M.2 screws (affiliate link),Western Digital in-house controller,DRIVES CHANGE HW! CHECK NOTES,1GB LPDDR4,8GB HMB2.0,Kioxia (formerly Toshiba),Tri-Level TLC,3D XPoint,"Read: 3400 MB/s, Write: 2900 MB/s","Gaming, High-Performance Storage"
+Samsung PM981 M.2 2280 NVMe,"PCIe 3.0 x4, SATA III (6Gb/s)","M.2 (2280), U.2","250GB, 500GB, 1TB",Samsung S3F7X16GC,SEE ------>,256MB LPDDR4,No,Samsung K9JAG8UEMC,MLC (Multi-Level Cell),96 layers,"Sequential Read: up to 3200 MB/s, Sequential Write: up to 2000 MB/s","NVMe SSD, Enterprise-grade SSD"

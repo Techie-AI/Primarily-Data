@@ -1,0 +1,343 @@
+Prompt,Response
+I need a motherboard of Gigabyte - low power range,"**Motherboard Name:** Gigabyte GA-A320M-S2H
+
+**Company:** Gigabyte
+
+**Socket:** AM4
+
+**Chipset:** AMD A320
+
+**Max RAM Speed:** DDR4 3600 MHz
+
+**Memory Type:** DDR4
+
+**Supported Storage Interfaces:** SATA III, M.2 (NVMe)
+
+**Supported Form Factors:** SATA III, PCIe x4, M.2
+
+**Form Factor:** Micro-ATX
+"
+I need a motherboard of Asus - mid power range,"**Motherboard Name:** Asus Z170 Pro Gaming
+
+**Company:** Asus
+
+**Socket:** LGA 1151
+
+**Chipset:** Intel Z170
+
+**Max RAM Speed:** DDR4-3200
+
+**Memory Type:** DDR4
+
+**Supported Storage Interfaces:** SATA III, PCIe NVMe, M.2, USB-C
+
+**Supported Form Factors:** 2.5-inch HDD, M.2 SSD, mSATA SSD
+
+**Form Factor:** ATX
+"
+I need a motherboard of Asus - low power range,"**Motherboard Name:** Asus Prime A320M-K
+
+**Company:** Asus
+
+**Socket:** AM4
+
+**Chipset:** AMD A320
+
+**Max RAM Speed:** 3200 MHz (assuming DDR4 RAM)
+
+**Memory Type:** DDR4
+
+**Supported Storage Interfaces:** SATA III, M.2 NVMe
+
+**Supported Form Factors:** 2.5"", M.2
+
+**Form Factor:** Micro-ATX
+"
+I need a motherboard of Asus - mid power range,"**Motherboard Name:** Asus Z170-A
+
+**Company:** Asus
+
+**Socket:** LGA 1151
+
+**Chipset:** Intel Z170
+
+**Max RAM Speed:** DDR4-3200
+
+**Memory Type:** DDR4
+
+**Supported Storage Interfaces:** SATA III, PCIe NVMe, M.2, U.2
+
+**Supported Form Factors:** mSATA, SATA DOM, M.2 NGFF, PCIe NVMe
+
+**Form Factor:** ATX
+"
+I need a motherboard of Asrock - low power range,"**Motherboard Name:** Asrock B450M Steel Legend
+
+**Company:** Asrock
+
+**Socket:** AM4
+
+**Chipset:** AMD B450
+
+**Max RAM Speed:** 3200MHz
+
+**Memory Type:** DDR4
+
+**Supported Storage Interfaces:** SATA III, M.2 NVMe, PCIe x4
+
+**Supported Form Factors:** 2.5"", 3.5""
+
+**Form Factor:** Micro-ATX
+"
+I need a motherboard of Asus - low power range,"**Motherboard Name:** Asus EX-A320M-Gaming
+
+**Company:** Asus
+
+**Socket:** AM4
+
+**Chipset:** AMD A320
+
+**Max RAM Speed:** 3200 MHz (OC)
+
+**Memory Type:** DDR4
+
+**Supported Storage Interfaces:** SATA III, M.2 NVMe
+
+**Supported Form Factors:** 2.5-inch HDD, M.2 SSD
+
+**Form Factor:** Micro-ATX
+"
+I need a motherboard of Asrock - low power range,"**Motherboard Name:** Asrock A320M-HDV
+
+**Company:** Asrock
+
+**Socket:** AM4
+
+**Chipset:** AMD A320
+
+**Max RAM Speed:** 2400MHz
+
+**Memory Type:** DDR4
+
+**Supported Storage Interfaces:** SATA III, M.2 NVMe
+
+**Supported Form Factors:** 2.5"", 3.5""
+
+**Form Factor:** Micro-ATX
+"
+I need a motherboard of Asus - low power range,"**Motherboard Name:** Asus ROG Maximus VII Hero
+
+**Company:** Asus
+
+**Socket:** LGA 1150
+
+**Chipset:** Intel Z97
+
+**Max RAM Speed:** DDR3-3200
+
+**Memory Type:** DDR3
+
+**Supported Storage Interfaces:** SATA III, M.2, PCIe
+
+**Supported Form Factors:** 2.5"", 3.5""
+
+**Form Factor:** ATX
+"
+I need a motherboard of Asus - mid power range,"**Motherboard Name:** Asus Z170-P
+
+**Company:** Asus
+
+**Socket:** LGA 1151
+
+**Chipset:** Intel Z170
+
+**Max RAM Speed:** DDR4-3200
+
+**Memory Type:** DDR4
+
+**Supported Storage Interfaces:** SATA III, PCIe NVMe, M.2, U.2
+
+**Supported Form Factors:** 2.5"", 3.5""
+
+**Form Factor:** ATX
+"
+I need a motherboard of Asus - low power range,"**Motherboard Name:** Asus Prime Z370-P
+
+**Company:** Asus
+
+**Socket:** LGA 1151
+
+**Chipset:** Intel Z370
+
+**Max RAM Speed:** DDR4-2666
+
+**Memory Type:** DDR4
+
+**Supported Storage Interfaces:** SATA III, M.2 NVMe, M.2 SATA, U.2
+
+**Supported Form Factors:** 2.5"", 3.5""
+
+**Form Factor:** ATX
+"
+I need a motherboard of Gigabyte - low power range,"**Motherboard Name:** Gigabyte GA-H110M-DS2
+
+**Company:** Gigabyte
+
+**Socket:** LGA 1151
+
+**Chipset:** Intel H110
+
+**Max RAM Speed:** DDR4 2400MHz
+
+**Memory Type:** DDR4
+
+**Supported Storage Interfaces:** SATA III, M.2 (SATA and PCIe)
+
+**Supported Form Factors:** 2.5-inch HDD, M.2 SSD
+
+**Form Factor:** Micro-ATX
+"
+I need a motherboard of Gigabyte - low power range,"**Motherboard Name:** Gigabyte B450 Aorus Elite
+
+**Company:** Gigabyte
+
+**Socket:** AM4
+
+**Chipset:** AMD B450
+
+**Max RAM Speed:** DDR4 3200MHz
+
+**Memory Type:** DDR4
+
+**Supported Storage Interfaces:** SATA III, PCIe NVMe, M.2
+
+**Supported Form Factors:** M.2
+
+**Form Factor:** ATX
+"
+I need a motherboard of Gigabyte - low power range,"**Motherboard Name:** Gigabyte Z390 UD
+
+**Company:** Gigabyte
+
+**Socket:** LGA 1151
+
+**Chipset:** Intel Z390
+
+**Max RAM Speed:** DDR4 4600MHz (OC)
+
+**Memory Type:** DDR4
+
+**Supported Storage Interfaces:** SATA III, PCIe NVMe
+
+**Supported Form Factors:** 2.5"", M.2
+
+**Form Factor:** ATX
+"
+I need a motherboard of Colorful - low power range,"**Motherboard Name:** Colorful C.A320M-K Pro V14
+
+**Company:** Colorful
+
+**Socket:** AM4
+
+**Chipset:** AMD A320
+
+**Max RAM Speed:** 2400MHz (Dual Channel)
+
+**Memory Type:** DDR4
+
+**Supported Storage Interfaces:** SATA III, M.2 (SATA and PCIe)
+
+**Supported Form Factors:** 2.5"" and 3.5""
+
+**Form Factor:** Micro-ATX
+"
+I need a motherboard of Gigabyte - low power range,"**Motherboard Name:** Gigabyte Z370P D3
+
+**Company:** Gigabyte
+
+**Socket:** LGA 1151
+
+**Chipset:** Intel Z370
+
+**Max RAM Speed:** DDR4 3200
+
+**Memory Type:** DDR4
+
+**Supported Storage Interfaces:** SATA III, M.2 NVMe, U.2
+
+**Supported Form Factors:** 2.5"" HDD, SSD, M.2
+
+**Form Factor:** ATX
+"
+I need a motherboard of MSI - low power range,"**Motherboard Name:** MSI Z390-A Pro
+
+**Company:** MSI
+
+**Socket:** LGA 1151
+
+**Chipset:** Intel Z390
+
+**Max RAM Speed:** DDR4 4600+
+
+**Memory Type:** DDR4
+
+**Supported Storage Interfaces:** SATA III, M.2 NVMe, PCIe NVMe
+
+**Supported Form Factors:** M.2, U.2
+
+**Form Factor:** ATX
+"
+I need a motherboard of Gigabyte - low power range,"**Motherboard Name:** Gigabyte GA-H110-D3A
+
+**Company:** Gigabyte
+
+**Socket:** LGA 1151
+
+**Chipset:** Intel H110
+
+**Max RAM Speed:** DDR4-2400
+
+**Memory Type:** DDR4
+
+**Supported Storage Interfaces:** SATA III, M.2
+
+**Supported Form Factors:** 2.5"", 3.5""
+
+**Form Factor:** ATX
+"
+I need a motherboard of Asus - low power range,"**Motherboard Name:** Asus Sabertooth 990FX R2.0
+
+**Company:** Asus
+
+**Socket:** AM3+
+
+**Chipset:** AMD 990FX
+
+**Max RAM Speed:** DDR3-1866 (Note: This is a maximum speed of DDR3 memory)
+
+**Memory Type:** DDR3
+
+**Supported Storage Interfaces:** SATA III, PCIe x4, AHCI
+
+**Supported Form Factors:** 2.5-inch and 3.5-inch Hard Disk Drives (HDD), Solid-State Drives (SSD), M.2 SSDs
+
+**Form Factor:** ATX
+"
+I need a motherboard of Asus - low power range,"**Motherboard Name:** Asus Z170-K
+
+**Company:** Asus
+
+**Socket:** LGA 1151
+
+**Chipset:** Intel Z170
+
+**Max RAM Speed:** DDR4 3200 (OC)
+
+**Memory Type:** DDR4 SDRAM
+
+**Supported Storage Interfaces:** SATA III, PCIe NVMe, M.2
+
+**Supported Form Factors:** 2.5-inch HDD, M.2 SSD, U.2 SSD
+
+**Form Factor:** ATX
+"

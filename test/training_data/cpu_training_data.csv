@@ -1,0 +1,495 @@
+Prompt,Response
+I need a CPU of AMD - high power range,"**CPU Name:** AMD Ryzen Threadripper PRO 5995WX
+
+**Company:** AMD
+
+**Socket:** sWRX8
+
+**Supported Chipsets:** Xeon EEB
+
+**Max RAM Speed:** DDR4-3200, DDR5-4800
+
+**Memory Type:** DDR4/DDR5
+
+**CPU Mark:** 108822
+
+**CPU Value:** 3330
+
+**Thread Mark:** 280
+
+**Thread Value:** 388.65
+
+**TDP:** 64
+
+**Power Performance:** None
+
+**Cores:** None
+"
+I need a CPU of AMD - high power range,"**CPU Name:** AMD EPYC 7763
+
+**Company:** AMD
+
+**Socket:** SP3
+
+**Supported Chipsets:** Xeon E5/E7 v4 (C621) and SP3-based EPYC chipsets
+
+**Max RAM Speed:** 3200 MHz
+
+**Memory Type:** DDR4-3200
+
+**CPU Mark:** 88338
+
+**CPU Value:** 2635
+
+**Thread Mark:** 280
+
+**Thread Value:** 315.49
+
+**TDP:** 64
+
+**Power Performance:** None
+
+**Cores:** None
+"
+I need a CPU of AMD - high power range,"**CPU Name:** AMD EPYC 7J13
+
+**Company:** AMD
+
+**Socket:** unknown
+
+**Supported Chipsets:** x86-64
+
+**Max RAM Speed:** 3200 MHz
+
+**Memory Type:** DDR4-3200 or LPDDR4-2933
+
+**CPU Mark:** 86006
+
+**CPU Value:** 2387
+
+**Thread Mark:** 225W
+
+**Thread Value:** 
+
+**TDP:** 64
+
+**Power Performance:** None
+
+**Cores:** None
+"
+I need a CPU of AMD - high power range,"**CPU Name:** AMD EPYC 7713
+
+**Company:** AMD
+
+**Socket:** SP3
+
+**Supported Chipsets:** Xeon/Wellhaven (for AMD EPYC)
+
+**Max RAM Speed:** DDR4-3200
+
+**Memory Type:** DDR4
+
+**CPU Mark:** 85861
+
+**CPU Value:** 2727
+
+**Thread Mark:** 225
+
+**Thread Value:** 381.6
+
+**TDP:** 64
+
+**Power Performance:** None
+
+**Cores:** None
+"
+I need a CPU of AMD - high power range,"**CPU Name:** AMD Ryzen Threadripper PRO 3995WX
+
+**Company:** AMD
+
+**Socket:** sWRX8
+
+**Supported Chipsets:** Xeon/W5580
+
+**Max RAM Speed:** DDR4-3200
+
+**Memory Type:** DDR4
+
+**CPU Mark:** 83971
+
+**CPU Value:** 2626
+
+**Thread Mark:** 280
+
+**Thread Value:** 299.9
+
+**TDP:** 64
+
+**Power Performance:** None
+
+**Cores:** None
+"
+I need a CPU of AMD - high power range,"**CPU Name:** AMD Ryzen Threadripper 3990X
+
+**Company:** AMD
+
+**Socket:** sTRX4
+
+**Supported Chipsets:** ASRock X570 Taichi, ASUS PRIME X570-UD, GIGABYTE X570 AORUS MASTER, MSI MEG X570 GODLIKE
+
+**Max RAM Speed:** DDR4-3200
+
+**Memory Type:** DDR4
+
+**CPU Mark:** 81568
+
+**CPU Value:** 2569
+
+**Thread Mark:** 280
+
+**Thread Value:** 291.31
+
+**TDP:** 64
+
+**Power Performance:** None
+
+**Cores:** None
+"
+I need a CPU of AMD - high power range,"**CPU Name:** AMD Ryzen Threadripper PRO 5975WX
+
+**Company:** AMD
+
+**Socket:** sWRX8
+
+**Supported Chipsets:** Xeon E3, Xeon W-3175X
+
+**Max RAM Speed:** DDR4-3200, DDR5-4800
+
+**Memory Type:** DDR4, DDR5
+
+**CPU Mark:** 80842
+
+**CPU Value:** 3340
+
+**Thread Mark:** 280
+
+**Thread Value:** 288.72
+
+**TDP:** 32
+
+**Power Performance:** None
+
+**Cores:** None
+"
+I need a CPU of AMD - mid power range,"**CPU Name:** AMD EPYC 7B13
+
+**Company:** AMD
+
+**Socket:** unknown
+
+**Supported Chipsets:** SP5100
+
+**Max RAM Speed:** 3200 MHz
+
+**Memory Type:** DDR4-3200
+
+**CPU Mark:** 77460
+
+**CPU Value:** 2564
+
+**Thread Mark:** 225W
+
+**Thread Value:** 3.42
+
+**TDP:** 60
+
+**Power Performance:** None
+
+**Cores:** None
+"
+I need a CPU of AMD - mid power range,"**CPU Name:** AMD EPYC 7643
+
+**Company:** AMD
+
+**Socket:** SP3
+
+**Supported Chipsets:** Xeon D/P
+
+**Max RAM Speed:** DDR4-3200/DDR5-5200
+
+**Memory Type:** 
+
+**CPU Mark:** 76455
+
+**CPU Value:** 2695
+
+**Thread Mark:** 225
+
+**Thread Value:** 339.8
+
+**TDP:** 48
+
+**Power Performance:** None
+
+**Cores:** None
+"
+I need a CPU of AMD - mid power range,"**CPU Name:** AMD EPYC 7702
+
+**Company:** AMD
+
+**Socket:** SP3
+
+**Supported Chipsets:** Rome
+
+**Max RAM Speed:** 3200 MT/s
+
+**Memory Type:** DDR4
+
+**CPU Mark:** 71646
+
+**CPU Value:** 2097
+
+**Thread Mark:** 200
+
+**Thread Value:** 358.23
+
+**TDP:** 64
+
+**Power Performance:** None
+
+**Cores:** None
+"
+I need a CPU of AMD - mid power range,"**CPU Name:** AMD EPYC 7662
+
+**Company:** AMD
+
+**Socket:** SP3
+
+**Supported Chipsets:** Xeon/Wellsburg/EPYCDome
+
+**Max RAM Speed:** 3200 MHz
+
+**Memory Type:** DDR4/DDR5 (depending on the CPU model)
+
+**CPU Mark:** 71576
+
+**CPU Value:** 2054
+
+**Thread Mark:** 225
+
+**Thread Value:** 318.12
+
+**TDP:** 64
+
+**Power Performance:** None
+
+**Cores:** None
+"
+I need a CPU of AMD - mid power range,"**CPU Name:** AMD EPYC 7742
+
+**Company:** AMD
+
+**Socket:** SP3
+
+**Supported Chipsets:** PCIe 4.0 x16 (single), PCIe 4.0 x8/x8 or x16/x8/x8 (dual)
+
+**Max RAM Speed:** DDR4-3200, DDR5-4800
+
+**Memory Type:** DDR4, DDR5
+
+**CPU Mark:** 68749
+
+**CPU Value:** 2145
+
+**Thread Mark:** 225
+
+**Thread Value:** 305.55
+
+**TDP:** 64
+
+**Power Performance:** None
+
+**Cores:** None
+"
+I need a CPU of AMD - mid power range,"**CPU Name:** AMD EPYC 75F3
+
+**Company:** AMD
+
+**Socket:** SP3
+
+**Supported Chipsets:** x397
+
+**Max RAM Speed:** 3200
+
+**Memory Type:** DDR4
+
+**CPU Mark:** 68505
+
+**CPU Value:** 2775
+
+**Thread Mark:** 280
+
+**Thread Value:** 244.66
+
+**TDP:** 32
+
+**Power Performance:** None
+
+**Cores:** None
+"
+I need a CPU of AMD - mid power range,"**CPU Name:** AMD Ryzen Threadripper PRO 5965WX
+
+**Company:** AMD
+
+**Socket:** sWRX8
+
+**Supported Chipsets:** ASRock X570, ASUS PRIME X570, MSI MEG X570 GODLIKE
+
+**Max RAM Speed:** 3200MHz
+
+**Memory Type:** DDR4
+
+**CPU Mark:** 68405
+
+**CPU Value:** 3346
+
+**Thread Mark:** 280
+
+**Thread Value:** 244.3
+
+**TDP:** 24
+
+**Power Performance:** None
+
+**Cores:** None
+"
+I need a CPU of AMD - mid power range,"**CPU Name:** AMD EPYC 7642
+
+**Company:** AMD
+
+**Socket:** SP3
+
+**Supported Chipsets:** Xeon D, SP3
+
+**Max RAM Speed:** DDR4-3200
+
+**Memory Type:** DDR4
+
+**CPU Mark:** 67748
+
+**CPU Value:** 2155
+
+**Thread Mark:** 225
+
+**Thread Value:** 301.1
+
+**TDP:** 48
+
+**Power Performance:** None
+
+**Cores:** None
+"
+I need a CPU of AMD - mid power range,"**CPU Name:** AMD EPYC 7543P
+
+**Company:** AMD
+
+**Socket:** SP3
+
+**Supported Chipsets:** Xeon E5/E7 Series Processors, Ryzen Threadripper Series Processors (Note: This is an educated guess based on general information about SP3 socket compatibility)
+
+**Max RAM Speed:** DDR4-3200 MHz (Note: This is a common maximum RAM speed for EPYC processors in the SP3 socket)
+
+**Memory Type:** DDR4 (Note: This is the most likely memory type supported by the EPYC 7543P processor)
+
+**CPU Mark:** 67144
+
+**CPU Value:** 2742
+
+**Thread Mark:** 225
+
+**Thread Value:** 298.42
+
+**TDP:** 32
+
+**Power Performance:** None
+
+**Cores:** None
+"
+I need a CPU of AMD - mid power range,"**CPU Name:** AMD EPYC 7R32
+
+**Company:** AMD
+
+**Socket:** unknown
+
+**Supported Chipsets:** C621-FM1, C632-FM2
+
+**Max RAM Speed:** 3200 MHz
+
+**Memory Type:** DDR4 ECC
+
+**CPU Mark:** 64727
+
+**CPU Value:** 1922
+
+**Thread Mark:** 120W
+
+**Thread Value:** 2.8
+
+**TDP:** 48
+
+**Power Performance:** None
+
+**Cores:** None
+"
+I need a CPU of AMD - mid power range,"**CPU Name:** AMD Ryzen Threadripper 3970X
+
+**Company:** AMD
+
+**Socket:** sTRX4
+
+**Supported Chipsets:** X570, TRX40
+
+**Max RAM Speed:** DDR4-3200
+
+**Memory Type:** DDR4
+
+**CPU Mark:** 63835
+
+**CPU Value:** 2694
+
+**Thread Mark:** 280
+
+**Thread Value:** 227.98
+
+**TDP:** 32
+
+**Power Performance:** None
+
+**Cores:** None
+"
+I need a CPU of AMD - mid power range,"**CPU Name:** AMD Ryzen Threadripper PRO 3975WX
+
+**Company:** AMD
+
+**Socket:** sWRX8
+
+**Supported Chipsets:** ASRock X570 Taichi, ASUS PRIME X570-UD, MSI MEG X570 GODLIKE
+
+**Max RAM Speed:** DDR4-3200
+
+**Memory Type:** DDR4
+
+**CPU Mark:** 63495
+
+**CPU Value:** 2666
+
+**Thread Mark:** 280
+
+**Thread Value:** 226.77
+
+**TDP:** 32
+
+**Power Performance:** None
+
+**Cores:** None
+"

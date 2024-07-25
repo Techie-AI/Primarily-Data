@@ -1,0 +1,495 @@
+Prompt,Response
+I need an SSD with 120GB-1.92TB capacities and 560/500 speed - low range,"**Model:** Acer SA100
+
+**Interface:** SATA/AHCI
+
+**Form Factor:** 2.5""
+
+**Capacities:** 120GB-1.92TB
+
+**Controller:** Maxio MAS0902A
+
+**Configuration:** Dual-core, 4-Ch, 8-CE/ch
+
+**DRAM:** No
+
+**HMB:** N/A
+
+**NAND Brand:** 
+
+**NAND Type:** TLC
+
+**Layers:** 
+
+**R/W Speed:** 560/500
+
+**Categories:** Entry-Level SATA
+"
+I need an SSD with 128GB-2TB capacities and 3300/2700 speed - low range,"**Model:** Acer FA100
+
+**Interface:** x4 PCIe 3.0/NVMe
+
+**Form Factor:** M.2
+
+**Capacities:** 128GB-2TB
+
+**Controller:** Innogrit IG5216
+
+**Configuration:** Dual-core, 4x4
+
+**DRAM:** No
+
+**HMB:** Yes
+
+**NAND Brand:** Micron
+
+**NAND Type:** TLC
+
+**Layers:** 176
+
+**R/W Speed:** 3300/2700
+
+**Categories:** Entry-Level NVMe
+"
+I need an SSD with 500GB-4TB capacities and 7200/6200 speed - low range,"**Model:** Acer FA200
+
+**Interface:** x4 PCIe 4.0/NVMe
+
+**Form Factor:** M.2
+
+**Capacities:** 500GB-4TB
+
+**Controller:** Maxio MAP1602
+
+**Configuration:** R5, 4x8
+
+**DRAM:** No
+
+**HMB:** Yes
+
+**NAND Brand:** YMTC
+
+**NAND Type:** QLC
+
+**Layers:** 232
+
+**R/W Speed:** 7200/6200
+
+**Categories:** Consumer
+"
+I need an SSD with 512GB-1TB capacities and 3400/3000 speed - low range,"**Model:** Acer GM3500
+
+**Interface:** x4 PCIe 3.0/NVMe
+
+**Form Factor:** M.2
+
+**Capacities:** 512GB-1TB
+
+**Controller:** SMI SM2262EN
+
+**Configuration:** Dual-core, 8-ch, 4-CE/ch
+
+**DRAM:** Yes
+
+**HMB:** No
+
+**NAND Brand:** Micron
+
+**NAND Type:** TLC
+
+**Layers:** 96+
+
+**R/W Speed:** 3400/3000
+
+**Categories:** Mid-Range NVMe
+"
+I need an SSD with 512GB-2TB capacities and 7400/7300 speed - low range,"**Model:** Acer GM7
+
+**Interface:** x4 PCIe 4.0/NVMe
+
+**Form Factor:** M.2
+
+**Capacities:** 512GB-2TB
+
+**Controller:** Maxio MAP1602
+
+**Configuration:** R5, 4x8
+
+**DRAM:** No
+
+**HMB:** Yes
+
+**NAND Brand:** YMTC
+
+**NAND Type:** TLC
+
+**Layers:** 3D
+
+**R/W Speed:** 7400/7300
+
+**Categories:** Consumer
+"
+I need an SSD with 512GB-2TB capacities and 7400/6400 speed - low range,"**Model:** Acer GM7000 (Predator)
+
+**Interface:** x4 PCIe 4.0/NVMe
+
+**Form Factor:** M.2
+
+**Capacities:** 512GB-2TB
+
+**Controller:** InnoGrit IG5236
+
+**Configuration:** Quad-core, 8-ch
+
+**DRAM:** Yes
+
+**HMB:** No
+
+**NAND Brand:** Micron
+
+**NAND Type:** TLC
+
+**Layers:** 176
+
+**R/W Speed:** 7400/6400
+
+**Categories:** High-End NVMe
+"
+I need an SSD with 128GB-4TB capacities and 560/520 speed - low range,"**Model:** Acer RE100
+
+**Interface:** SATA/AHCI
+
+**Form Factor:** 2.5""
+
+**Capacities:** 128GB-4TB
+
+**Controller:** Maxio MAS0902A
+
+**Configuration:** Dual-core, 4-Ch, 8-CE/ch
+
+**DRAM:** No
+
+**HMB:** N/A
+
+**NAND Brand:** Kioxia (formerly Toshiba)
+
+**NAND Type:** TLC
+
+**Layers:** 
+
+**R/W Speed:** 560/520
+
+**Categories:** Entry-Level SATA
+"
+I need an SSD with 250GB-1TB capacities and 2500/2000 speed - low range,"**Model:** ADATA ATOM 30
+
+**Interface:** x4 PCIe 3.0/NVMe
+
+**Form Factor:** M.2
+
+**Capacities:** 250GB-1TB
+
+**Controller:** Realtek RTS5766DL
+
+**Configuration:** 4-Ch
+
+**DRAM:** No
+
+**HMB:** Yes
+
+**NAND Brand:** Micron
+
+**NAND Type:** TLC (Tri-Level Cell)
+
+**Layers:** 3D
+
+**R/W Speed:** 2500/2000
+
+**Categories:** Entry-Level NVMe
+"
+I need an SSD with 512GB-1TB capacities and 3500/3000 speed - low range,"**Model:** ADATA ATOM 40
+
+**Interface:** x4 PCIe 4.0/NVMe
+
+**Form Factor:** M.2
+
+**Capacities:** 512GB-1TB
+
+**Controller:** Phison E18
+
+**Configuration:** 
+
+**DRAM:** 1GB
+
+**HMB:** Yes
+
+**NAND Brand:** Kioxia (formerly Toshiba)
+
+**NAND Type:** TLC (Tri-Level Cell)
+
+**Layers:** 3D NAND, BiCS4
+
+**R/W Speed:** 3500/3000
+
+**Categories:** Mid-Range NVMe
+"
+I need an SSD with 512GB-1TB capacities and 5000/4500 speed - low range,"**Model:** ADATA ATOM 50
+
+**Interface:** x4 PCIe 4.0/NVMe
+
+**Form Factor:** M.2
+
+**Capacities:** 512GB-1TB
+
+**Controller:** InnoGrit IG5220
+
+**Configuration:** Tri-core R5, 4x8
+
+**DRAM:** No
+
+**HMB:** Yes
+
+**NAND Brand:** Micron
+
+**NAND Type:** TLC
+
+**Layers:** 176
+
+**R/W Speed:** 5000/4500
+
+**Categories:** Mid-Range NVMe
+"
+I need an SSD with 256GB-2TB capacities and 3100/1500 speed - low range,"**Model:** ADATA Falcon
+
+**Interface:** x4 PCIe 3.0/NVMe
+
+**Form Factor:** M.2
+
+**Capacities:** 256GB-2TB
+
+**Controller:** Realtek RTS5762DL
+
+**Configuration:** Dual-core, 8-ch, 4-CE/ch
+
+**DRAM:** No
+
+**HMB:** Yes
+
+**NAND Brand:** Micron
+
+**NAND Type:** TLC
+
+**Layers:** 96
+
+**R/W Speed:** 3100/1500
+
+**Categories:** Entry-Level NVMe
+"
+I need an SSD with 256GB-1TB capacities and 2400/1800 speed - low range,"**Model:** ADATA Legend 710
+
+**Interface:** x4 PCIe 3.0/NVMe
+
+**Form Factor:** M.2
+
+**Capacities:** 256GB-1TB
+
+**Controller:** Realtek RTS5766DL
+
+**Configuration:** 4-Ch
+
+**DRAM:** No
+
+**HMB:** Yes
+
+**NAND Brand:** Micron
+
+**NAND Type:** TLC (Tri-Level Cell)
+
+**Layers:** 3D TLC
+
+**R/W Speed:** 2400/1800
+
+**Categories:** Entry-Level NVMe
+"
+I need an SSD with 250GB-1TB capacities and 2500/2000 speed - low range,"**Model:** ADATA Legend 740
+
+**Interface:** x4 PCIe 3.0/NVMe
+
+**Form Factor:** M.2
+
+**Capacities:** 250GB-1TB
+
+**Controller:** Realtek RTS5766DL
+
+**Configuration:** 4-Ch
+
+**DRAM:** No
+
+**HMB:** Yes
+
+**NAND Brand:** Kioxia (formerly Toshiba)
+
+**NAND Type:** Tri-Level TLC
+
+**Layers:** 3D
+
+**R/W Speed:** 2500/2000
+
+**Categories:** Entry-Level NVMe
+"
+I need an SSD with 500GB-1TB capacities and 3500/3000 speed - low range,"**Model:** ADATA Legend 750
+
+**Interface:** x4 PCIe 3.0/NVMe
+
+**Form Factor:** M.2
+
+**Capacities:** 500GB-1TB
+
+**Controller:** Maxio MAP1202
+
+**Configuration:** Dual R5, 4x4
+
+**DRAM:** No
+
+**HMB:** Yes
+
+**NAND Brand:** Micron
+
+**NAND Type:** 3D TLC
+
+**Layers:** 96
+
+**R/W Speed:** 3500/3000
+
+**Categories:** Mid-Range NVMe
+"
+I need an SSD with  capacities and 3500/2800 speed - low range,"**Model:** ADATA Legend 800
+
+**Interface:** x4 PCIe 4.0/NVMe
+
+**Form Factor:** M.2
+
+**Capacities:** 
+
+**Controller:** SMI SM2267XT
+
+**Configuration:** Dual R5, 4x4
+
+**DRAM:** 1GB
+
+**HMB:** Yes
+
+**NAND Brand:** Kioxia (formerly Toshiba)
+
+**NAND Type:** Tri-Level TLC
+
+**Layers:** 3D TLC
+
+**R/W Speed:** 3500/2800
+
+**Categories:** Entry-Level NVMe
+"
+I need an SSD with 1TB-2TB capacities and 5000/4500 speed - low range,"**Model:** ADATA Legend 820
+
+**Interface:** x4 PCIe 4.0/NVMe
+
+**Form Factor:** M.2
+
+**Capacities:** 1TB-2TB
+
+**Controller:** 
+
+**Configuration:** SATA III or NVMe
+
+**DRAM:** None
+
+**HMB:** Not Applicable (M.2 form factor)
+
+**NAND Brand:** Micron
+
+**NAND Type:** Tri-Level Cell (TLC) or QLC
+
+**Layers:** Not Specified
+
+**R/W Speed:** 5000/4500
+
+**Categories:** Consumer Storage, Performance SSD
+"
+I need an SSD with 512GB-1TB capacities and 5000/4500 speed - low range,"**Model:** ADATA Legend 840
+
+**Interface:** x4 PCIe 4.0/NVMe
+
+**Form Factor:** M.2
+
+**Capacities:** 512GB-1TB
+
+**Controller:** InnoGrit IG5220
+
+**Configuration:** Tri-core R5, 4x8
+
+**DRAM:** No
+
+**HMB:** Yes
+
+**NAND Brand:** Micron
+
+**NAND Type:** TLC
+
+**Layers:** 176
+
+**R/W Speed:** 5000/4500
+
+**Categories:** Mid-Range NVMe
+"
+I need an SSD with 512GB-2TB capacities and 5000/4500 speed - low range,"**Model:** ADATA Legend 850
+
+**Interface:** x4 PCIe 4.0/NVMe
+
+**Form Factor:** M.2
+
+**Capacities:** 512GB-2TB
+
+**Controller:** SMI SM2269XT
+
+**Configuration:** Dual-core R8, 4-ch
+
+**DRAM:** No
+
+**HMB:** Yes
+
+**NAND Brand:** Kioxia (formerly Toshiba)
+
+**NAND Type:** TLC
+
+**Layers:** 
+
+**R/W Speed:** 5000/4500
+
+**Categories:** Mid-Range NVMe
+"
+I need an SSD with 500GB-2TB capacities and 5000/4200 speed - low range,"**Model:** ADATA Legend 850 Lite
+
+**Interface:** x4 PCIe 4.0/NVMe
+
+**Form Factor:** M.2
+
+**Capacities:** 500GB-2TB
+
+**Controller:** SMI SM2269XT
+
+**Configuration:** Dual-core R8, 4-ch
+
+**DRAM:** No
+
+**HMB:** Yes
+
+**NAND Brand:** Kioxia (formerly Toshiba)
+
+**NAND Type:** TLC
+
+**Layers:** 3D
+
+**R/W Speed:** 5000/4200
+
+**Categories:** Mid-Range NVMe
+"
